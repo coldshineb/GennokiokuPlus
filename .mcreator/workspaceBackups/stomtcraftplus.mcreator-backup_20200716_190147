@@ -1,0 +1,181 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StomtCraft",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StomtCraftMetroLine",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line1",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line2",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line3",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line4",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line5",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line6",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line7",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line8",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line9",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Line10",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InterplanetaryMetro",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LoopLineofCreationLand",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RailwayTransit",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabstomtcraftmetroline": "StomtCraft|Metro Line",
+      "tile.line3.name": "Line 1",
+      "tile.line7.name": "Line 1",
+      "tile.line9.name": "Line 1",
+      "tile.line6.name": "Line 1",
+      "tile.line1.name": "Line 1",
+      "tile.line4.name": "Line 1",
+      "tile.line2.name": "Line 1",
+      "tile.line5.name": "Line 1",
+      "tile.line8.name": "Line 1",
+      "tile.line10.name": "Line 1",
+      "item.railwaytransit.name": "Railway Transit",
+      "tile.interplanetarymetro.name": "Line 1",
+      "tile.looplineofcreationland.name": "Line 1",
+      "item.stomtcraft.name": "Stomt Craft"
+    },
+    "zh_cn": {
+      "itemGroup.tabstomtcraftmetroline": "守护工艺|轨道交通颜色",
+      "tile.line3.name": "3号线",
+      "tile.line7.name": "Line 1",
+      "tile.line9.name": "Line 1",
+      "tile.line6.name": "6号线",
+      "tile.line1.name": "1号线",
+      "tile.line4.name": "4号线",
+      "tile.line2.name": "2号线",
+      "tile.line5.name": "5号线",
+      "tile.line8.name": "Line 1",
+      "tile.line10.name": "Line 1",
+      "item.railwaytransit.name": "Railway Transit",
+      "tile.interplanetarymetro.name": "Line 1",
+      "tile.looplineofcreationland.name": "Line 1",
+      "item.stomtcraft.name": "守护工艺"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "stomtcraftplus",
+    "modName": "StomtCraft Plus Mod",
+    "version": "1.6",
+    "author": "Coldshine",
+    "websiteURL": "https://craft.stomt.world/",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "StomtCraft Plus Mod",
+    "modElementsPackage": "world.stomt.craft.stomtcraftplus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

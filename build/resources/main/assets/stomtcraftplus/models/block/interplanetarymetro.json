@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stomtcraftplus:blocks/interplanetarymetro",
+    "up": "stomtcraftplus:blocks/interplanetarymetro",
+    "north": "stomtcraftplus:blocks/interplanetarymetro",
+    "east": "stomtcraftplus:blocks/interplanetarymetro",
+    "south": "stomtcraftplus:blocks/interplanetarymetro",
+    "west": "stomtcraftplus:blocks/interplanetarymetro",
+    "particle": "stomtcraftplus:blocks/interplanetarymetro"
+  }
+}

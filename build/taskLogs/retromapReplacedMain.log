@@ -1,0 +1,625 @@
+Processing 21 files
+Start Processing: world/stomt/craft/stomtcraftplus/ClientProxyStomtCraftPlusMod.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.client.model.obj.OBJLoader
+End  Processing: world/stomt/craft/stomtcraftplus/ClientProxyStomtCraftPlusMod.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod.java
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod/ElementsStomtCraftPlusMod ()V world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/discovery/ASMDataTable
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod/ModElement
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class java/util/Map
+Rename field net/minecraft/world/World/provider[3733,3741]::provider->field_73011_w
+Rename field net/minecraft/entity/Entity/world[4122,4127]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[4136,4144]::isRemote->field_72995_K
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+Rename field net/minecraft/entity/Entity/world[4239,4244]::world->field_70170_p
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+Rename field net/minecraft/entity/Entity/world[4345,4350]::world->field_70170_p
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+Rename field net/minecraft/entity/Entity/world[4901,4906]::world->field_70170_p
+Rename field net/minecraft/world/World/isRemote[4915,4923]::isRemote->field_72995_K
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+Rename field net/minecraft/entity/Entity/world[5022,5027]::world->field_70170_p
+New Key: class world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod/ModElement/ModElement (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;I)V world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod/ModElement
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.network.IGuiHandler
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.discovery.ASMDataTable
+Import: net.minecraftforge.fml.common.IWorldGenerator
+Import: net.minecraftforge.fml.common.IFuelHandler
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 19 imports
+        java.util.ArrayList
+        java.util.Collections
+        java.util.HashMap
+        java.util.List
+        java.util.Map
+        java.util.Random
+        java.util.function.Supplier
+        net.minecraft.block.Block
+        net.minecraft.entity.player.EntityPlayer
+        net.minecraft.entity.player.EntityPlayerMP
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+        net.minecraft.potion.Potion
+        net.minecraft.util.ResourceLocation
+        net.minecraft.world.World
+        net.minecraft.world.biome.Biome
+        net.minecraft.world.chunk.IChunkProvider
+        net.minecraft.world.gen.IChunkGenerator
+        net.minecraft.world.storage.WorldSavedData
+End  Processing: world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/IProxyStomtCraftPlusMod.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: world/stomt/craft/stomtcraftplus/IProxyStomtCraftPlusMod.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/ServerProxyStomtCraftPlusMod.java
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: world/stomt/craft/stomtcraftplus/ServerProxyStomtCraftPlusMod.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/StomtCraftPlusMod.java
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/fml/common/Mod
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: net.minecraftforge.fml.relauncher.SideOnly
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.registry.GameRegistry
+Import: net.minecraftforge.fml.common.registry.EntityEntry
+Import: net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper
+Import: net.minecraftforge.fml.common.network.NetworkRegistry
+Import: net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+Import: net.minecraftforge.fml.common.event.FMLServerStartingEvent
+Import: net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+Import: net.minecraftforge.fml.common.SidedProxy
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fluids.FluidRegistry
+Import: net.minecraftforge.event.RegistryEvent
+Import: net.minecraftforge.common.MinecraftForge
+Import: net.minecraftforge.client.event.ModelRegistryEvent
+Adding 5 imports
+        java.util.function.Supplier
+        net.minecraft.block.Block
+        net.minecraft.item.Item
+        net.minecraft.potion.Potion
+        net.minecraft.world.biome.Biome
+End  Processing: world/stomt/craft/stomtcraftplus/StomtCraftPlusMod.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables.java
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/MapVariables/MapVariables ()V world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/MapVariables
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/MapVariables/MapVariables (Ljava/lang/String;)V world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/MapVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[850,861]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[930,940]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[1037,1046]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/isRemote[1067,1075]::isRemote->field_72995_K
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1389,1402]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[1405,1418]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[1525,1538]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[1541,1548]::setData->func_75745_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldVariables/WorldVariables ()V world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldVariables
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldVariables/WorldVariables (Ljava/lang/String;)V world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldVariables
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[1890,1901]::readFromNBT->func_76184_a
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[1970,1980]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[2077,2086]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/isRemote[2107,2115]::isRemote->field_72995_K
+Rename field net/minecraft/world/World/provider[2329,2337]::provider->field_73011_w
+Rename method net/minecraft/world/storage/MapStorage/getOrLoadData (Ljava/lang/Class;Ljava/lang/String;)Lnet/minecraft/world/storage/WorldSavedData;[2498,2511]::getOrLoadData->func_75742_a
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[2643,2650]::setData->func_75745_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[3009,3015]::player->field_147369_b
+Rename method net/minecraft/entity/player/EntityPlayerMP/getServerWorld ()Lnet/minecraft/world/WorldServer;[3024,3038]::getServerWorld->func_71121_q
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[3047,3063]::addScheduledTask->func_152344_a
+Rename field net/minecraft/network/NetHandlerPlayServer/player[3121,3127]::player->field_147369_b
+Rename field net/minecraft/entity/Entity/world[3136,3141]::world->field_70170_p
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3177,3189]::getMinecraft->func_71410_x
+Rename method net/minecraft/util/IThreadListener/addScheduledTask (Ljava/lang/Runnable;)Lcom/google/common/util/concurrent/ListenableFuture;[3192,3208]::addScheduledTask->func_152344_a
+Rename method net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft;[3249,3261]::getMinecraft->func_71410_x
+Rename field net/minecraft/client/Minecraft/player[3264,3270]::player->field_71439_g
+Rename field net/minecraft/entity/Entity/world[3278,3283]::world->field_70170_p
+Rename method net/minecraft/world/storage/WorldSavedData/markDirty ()V[3475,3484]::markDirty->func_76185_a
+Rename field net/minecraft/world/World/provider[3658,3666]::provider->field_73011_w
+Rename method net/minecraft/world/World/getMapStorage ()Lnet/minecraft/world/storage/MapStorage;[3735,3748]::getMapStorage->func_175693_T
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[3751,3758]::setData->func_75745_a
+Rename method net/minecraft/world/storage/MapStorage/setData (Ljava/lang/String;Lnet/minecraft/world/storage/WorldSavedData;)V[3848,3855]::setData->func_75745_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldSavedDataSyncMessage/WorldSavedDataSyncMessage ()V world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldSavedDataSyncMessage
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldSavedDataSyncMessage/WorldSavedDataSyncMessage (ILnet/minecraft/world/storage/WorldSavedData;)V world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables/WorldSavedDataSyncMessage
+Rename method net/minecraft/world/storage/WorldSavedData/writeToNBT (Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;[4344,4354]::writeToNBT->func_189551_b
+Rename method net/minecraft/world/storage/WorldSavedData/readFromNBT (Lnet/minecraft/nbt/NBTTagCompound;)V[4612,4623]::readFromNBT->func_76184_a
+Import: net.minecraftforge.fml.relauncher.Side
+Import: net.minecraftforge.fml.common.network.simpleimpl.MessageContext
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler
+Import: net.minecraftforge.fml.common.network.simpleimpl.IMessage
+Import: net.minecraftforge.fml.common.network.ByteBufUtils
+Adding 4 imports
+        net.minecraft.client.Minecraft
+        net.minecraft.nbt.NBTTagCompound
+        net.minecraft.world.World
+        net.minecraft.world.storage.WorldSavedData
+End  Processing: world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro/BlockInterplanetaryMetro (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1456,1472]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1664,1668]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1685,1703]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1727,1739]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1751,1757]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1772,1783]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1795,1808]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1819,1832]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1842,1857]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1866,1880]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine1.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine1/BlockLine1 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine1
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine1/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine1/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine1.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine10.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine10/BlockLine10 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine10
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1404,1420]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine10/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine10/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1594,1598]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1615,1633]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1644,1656]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1668,1674]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1689,1700]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1712,1725]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1736,1749]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1759,1774]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1783,1797]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine10.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine2.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine2/BlockLine2 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine2
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine2/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine2/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine2.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine3.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine3/BlockLine3 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine3
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine3/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine3/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine3.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine4.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine4/BlockLine4 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine4
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine4/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine4/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine4.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine5.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine5/BlockLine5 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine5
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine5/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine5/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine5.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine6.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine6/BlockLine6 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine6
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine6/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine6/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine6.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine7.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine7/BlockLine7 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine7
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1399,1415]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine7/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine7/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1588,1592]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1609,1627]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1637,1649]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1661,1667]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1682,1693]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1705,1718]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1729,1742]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1752,1767]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1776,1790]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine7.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine8.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine8/BlockLine8 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine8
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1400,1416]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine8/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine8/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1589,1593]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1610,1628]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1638,1650]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1662,1668]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1683,1694]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1706,1719]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1730,1743]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1753,1768]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1777,1791]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine8.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLine9.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine9/BlockLine9 (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLine9
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1400,1416]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLine9/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLine9/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1589,1593]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1610,1628]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1638,1650]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1662,1668]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1683,1694]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1706,1719]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1730,1743]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1753,1768]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1777,1791]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLine9.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand/BlockLoopLineofCreationLand (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[1468,1484]::getItemFromBlock->func_150898_a
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand/BlockCustom/BlockCustom ()V world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand/BlockCustom
+Rename field net/minecraft/block/material/Material/ROCK[1679,1683]::ROCK->field_151576_e
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[1700,1718]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[1745,1757]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[1769,1775]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[1790,1801]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[1813,1826]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[1837,1850]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/setLightOpacity (I)Lnet/minecraft/block/Block;[1860,1875]::setLightOpacity->func_149713_g
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[1884,1898]::setCreativeTab->func_149647_a
+Import: world.stomt.craft.stomtcraftplus.creativetab.TabStomtCraftMetroLine
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 11 imports
+        net.minecraft.block.Block
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/creativetab/TabStomtCraftMetroLine.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/creativetab/TabStomtCraftMetroLine/TabStomtCraftMetroLine (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/creativetab/TabStomtCraftMetroLine
+Rename method net/minecraft/creativetab/CreativeTabs/getTabIconItem ()Lnet/minecraft/item/ItemStack;[769,783]::getTabIconItem->func_78016_d
+Rename method net/minecraft/creativetab/CreativeTabs/setBackgroundImageName (Ljava/lang/String;)Lnet/minecraft/creativetab/CreativeTabs;[950,972]::setBackgroundImageName->func_78025_a
+Import: world.stomt.craft.stomtcraftplus.item.ItemRailwayTransit
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 4 imports
+        net.minecraft.creativetab.CreativeTabs
+        net.minecraft.item.ItemStack
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/creativetab/TabStomtCraftMetroLine.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit/ItemRailwayTransit (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit/ItemCustom/ItemCustom ()V world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1313,1325]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1334,1346]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1359,1377]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1434,1448]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1488,1509]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1553,1574]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1639,1654]::getDestroySpeed->func_150893_a
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 9 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit.java
+
+Start Processing: world/stomt/craft/stomtcraftplus/item/ItemStomtCraft.java
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod
+New Key: class net/minecraftforge/fml/common/registry/GameRegistry
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/item/ItemStomtCraft/ItemStomtCraft (Lworld/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod;)V world/stomt/craft/stomtcraftplus/item/ItemStomtCraft
+FOUND CONSTR method world/stomt/craft/stomtcraftplus/item/ItemStomtCraft/ItemCustom/ItemCustom ()V world/stomt/craft/stomtcraftplus/item/ItemStomtCraft/ItemCustom
+Rename method net/minecraft/item/Item/setMaxDamage (I)Lnet/minecraft/item/Item;[1296,1308]::setMaxDamage->func_77656_e
+Rename field net/minecraft/item/Item/maxStackSize[1317,1329]::maxStackSize->field_77777_bU
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[1342,1360]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[1409,1423]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/getItemEnchantability ()I[1463,1484]::getItemEnchantability->func_77619_b
+Rename method net/minecraft/item/Item/getMaxItemUseDuration (Lnet/minecraft/item/ItemStack;)I[1528,1549]::getMaxItemUseDuration->func_77626_a
+Rename method net/minecraft/item/Item/getDestroySpeed (Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F[1614,1629]::getDestroySpeed->func_150893_a
+Import: world.stomt.craft.stomtcraftplus.ElementsStomtCraftPlusMod
+Adding 9 imports
+        net.minecraft.block.state.IBlockState
+        net.minecraft.client.renderer.block.model.ModelResourceLocation
+        net.minecraft.item.Item
+        net.minecraft.item.ItemStack
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.client.model.ModelLoader
+        net.minecraftforge.fml.common.registry.GameRegistry
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: world/stomt/craft/stomtcraftplus/item/ItemStomtCraft.java
+

@@ -1,0 +1,15 @@
+itemGroup.tabstomtcraftmetroline=守护工艺|轨道交通颜色
+tile.line3.name=3号线
+tile.line7.name=7号线
+tile.line9.name=9号线
+tile.line6.name=6号线
+tile.line1.name=1号线
+tile.line4.name=4号线
+tile.line2.name=2号线
+tile.line5.name=5号线
+tile.line8.name=8号线
+tile.line10.name=10号线
+item.railwaytransit.name=守护轨道交通
+tile.interplanetarymetro.name=星际轨道交通线
+tile.looplineofcreationland.name=创新港环线
+item.stomtcraft.name=守护工艺

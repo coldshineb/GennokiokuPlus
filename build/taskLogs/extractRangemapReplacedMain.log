@@ -1,0 +1,67 @@
+Unsupposrted library path: E:\Stomt Studio\StomtCraftPlusMod\build\classes\java\api
+Unsupposrted library path: E:\Stomt Studio\StomtCraftPlusMod\build\resources\api
+Symbol range map extraction starting
+Processing 21 files
+startProcessing "world/stomt/craft/stomtcraftplus/ClientProxyStomtCraftPlusMod.java" md5: eb824d6c332cbf8c33e5f5644ecf0888
+endProcessing "world/stomt/craft/stomtcraftplus/ClientProxyStomtCraftPlusMod.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod.java" md5: 8f63e8b14f67e7276fcf1122df50f813
+endProcessing "world/stomt/craft/stomtcraftplus/ElementsStomtCraftPlusMod.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/IProxyStomtCraftPlusMod.java" md5: f4d856b7407313757ad63c1dd7909a8e
+endProcessing "world/stomt/craft/stomtcraftplus/IProxyStomtCraftPlusMod.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/ServerProxyStomtCraftPlusMod.java" md5: 20b31b0b81c69ebca52aa0aee2903673
+endProcessing "world/stomt/craft/stomtcraftplus/ServerProxyStomtCraftPlusMod.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/StomtCraftPlusMod.java" md5: 312d2c8d2ff0fcd79b3b2d63449195fc
+endProcessing "world/stomt/craft/stomtcraftplus/StomtCraftPlusMod.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables.java" md5: dbbf146067188047dfb540888f20ce34
+endProcessing "world/stomt/craft/stomtcraftplus/StomtCraftPlusModVariables.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro.java" md5: e3e2b87a67d4c86e93c02ffcd74edfa1
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockInterplanetaryMetro.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine1.java" md5: 1f79697b4552a202de1cbb1d5aaf8ca9
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine1.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine10.java" md5: a0a27d73fba34328605eb8ebd45cc8e0
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine10.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine2.java" md5: 169cd13b39729066148d2058a3465aa7
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine2.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine3.java" md5: aed7ddac5fd16e327faf98b4713285ba
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine3.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine4.java" md5: 0f44d695d15a4bbca53852a949773731
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine4.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine5.java" md5: e3147d23351139297cfb770ab001d233
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine5.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine6.java" md5: ea6b1d1b98f8f873cde93f2238406b64
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine6.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine7.java" md5: 4da1f484389b2fc49aab80e2a0ebbf4e
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine7.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine8.java" md5: 76e09039e3e85b1281221322bff6f415
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine8.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine9.java" md5: 28e3992053ba2b0bcd8bc77a77959b4e
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLine9.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand.java" md5: cd91da2db514669ed166dff706161021
+endProcessing "world/stomt/craft/stomtcraftplus/block/BlockLoopLineofCreationLand.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/creativetab/TabStomtCraftMetroLine.java" md5: 56657285354da123ce4a14d3151b674e
+endProcessing "world/stomt/craft/stomtcraftplus/creativetab/TabStomtCraftMetroLine.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit.java" md5: 930dbf5c86a94476427ebfd9456eb17d
+endProcessing "world/stomt/craft/stomtcraftplus/item/ItemRailwayTransit.java"
+
+startProcessing "world/stomt/craft/stomtcraftplus/item/ItemStomtCraft.java" md5: df3f45ce24b6687fa12394612c6171f6
+endProcessing "world/stomt/craft/stomtcraftplus/item/ItemStomtCraft.java"
+
