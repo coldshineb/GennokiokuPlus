@@ -1,0 +1,11 @@
+{
+  "a_walk_in_the_rain": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:yanni_-_a_walk_in_the_rain",
+        "stream": true
+      }
+    ]
+  }
+}

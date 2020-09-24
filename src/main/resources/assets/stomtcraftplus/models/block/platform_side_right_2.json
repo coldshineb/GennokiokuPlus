@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stomtcraftplus:blocks/platform_block",
+    "up": "stomtcraftplus:blocks/platform_side_right_2",
+    "north": "stomtcraftplus:blocks/platform_block",
+    "east": "stomtcraftplus:blocks/platform_block",
+    "south": "stomtcraftplus:blocks/platform_block",
+    "west": "stomtcraftplus:blocks/platform_block",
+    "particle": "stomtcraftplus:blocks/platform_block"
+  }
+}

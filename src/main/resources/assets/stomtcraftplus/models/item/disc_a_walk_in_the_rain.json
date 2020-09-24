@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stomtcraftplus:items/disc_a_walk_in_the_rain"
+  }
+}
