@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "StomtCraft | Music Discs",
+    "icon": {
+      "value": "CUSTOM:DiscAWalkInTheRain"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "a_walk_in_the_rain": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:yanni_-_a_walk_in_the_rain",
+        "stream": true
+      }
+    ]
+  },
+  "he_xi_corridor": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:yanni_-_he_xi_zou_lang_zhi_meng_",
+        "stream": true
+      }
+    ]
+  },
+  "ren_jian_feng_jing": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:wang_xiang__-_ren_jian_feng_jing_",
+        "stream": true
+      }
+    ]
+  },
+  "feeling_the_rain": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:moreanp_-_feeling_the_rain",
+        "stream": true
+      }
+    ]
+  },
+  "qiu_zi_mei_nonakuqing_ni_in_the_autumn_sky": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:banbansi_-_qiu_zi_mei_nonakuqing_ni_in_the_autumn_sky",
+        "stream": true
+      }
+    ]
+  },
+  "du_juan_yuan_wu_qu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:johan_emanuel_jonasson_-_du_juan_yuan_wu_qu_",
+        "stream": true
+      }
+    ]
+  },
+  "yi_xia_si_xiang": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:moreanp_-_yi_xia_si_xiang_",
+        "stream": true
+      }
+    ]
+  },
+  "dancing_butterflies": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:the_new_asia_ensemblepm_artist_sessions_project_-_dancing_butterflies",
+        "stream": true
+      }
+    ]
+  },
+  "qiu_zi_mei_nonakuqing_ni": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:banbansi_-_qiu_zi_mei_nonakuqing_ni",
+        "stream": true
+      }
+    ]
+  },
+  "yan_yu_xing_zhou": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:si_nan__-_yan_yu_xing_zhou_",
+        "stream": true
+      }
+    ]
+  },
+  "forbidden_love": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:forbidden_love",
+        "stream": true
+      }
+    ]
+  },
+  "da_shang_hua_huo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:daoko_dawoko___mi_jin_xuan_shi__yonedu_kensi_-_da_shang_hua_huo_",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dancing_butterflies",
+    "name": "Dancing Butterflies - The New Asia Ensemble",
+    "description": "Dancing Butterflies - The New Asia Ensemble",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:dancing_butterflies"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ren_jian_feng_jing",
+    "name": "Ren Jian Feng Jing - Wang Xiang",
+    "description": "Ren Jian Feng Jing - Wang Xiang",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:ren_jian_feng_jing"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

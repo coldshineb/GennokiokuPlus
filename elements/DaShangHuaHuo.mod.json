@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "da_shang_hua_huo",
+    "name": "打ち上げ花火 - ダヲコ & よねづ けんし",
+    "description": "打ち上げ花火 - ダヲコ & よねづ けんし",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:da_shang_hua_huo"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

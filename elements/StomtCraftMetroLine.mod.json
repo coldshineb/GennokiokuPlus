@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "StomtCraft | Metro Line",
+    "icon": {
+      "value": "CUSTOM:RailwayTransit"
+    },
+    "showSearch": false
+  }
+}

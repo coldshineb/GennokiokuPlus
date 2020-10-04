@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "feeling_the_rain",
+    "name": "Feeling The Rain - MoreanP",
+    "description": "Feeling The Rain - MoreanP",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:feeling_the_rain"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc_a_walk_in_the_rain",
+    "name": "A Walk In The Rain - Yanni",
+    "description": "A Walk In The Rain - Yanni",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:a_walk_in_the_rain"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "yi_xia_si_xiang",
+    "name": "Yi Xia Si Xiang - MoreanP",
+    "description": "Yi Xia Si Xiang - MoreanP",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:yi_xia_si_xiang"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

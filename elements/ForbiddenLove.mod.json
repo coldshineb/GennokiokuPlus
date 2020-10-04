@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "forbidden_love",
+    "name": "Forbidden Love - Abel Korzeniowski",
+    "description": "Forbidden Love - Abel Korzeniowski",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:forbidden_love"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

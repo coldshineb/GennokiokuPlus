@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "stomtcraftplus",
+    "name": "StomtCraftPlus",
+    "description": "StomtCraft Plus for StomtCraft server ONLY.",
+    "version": "1.10",
+    "credits": "StomtCraft",
+    "logoFile": "assets/stomtcraftplus/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://craft.stomt.world/",
+    "updateUrl": "",
+    "authorList": [
+      "Coldshine"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

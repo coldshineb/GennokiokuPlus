@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "qiu_zi_mei_in_the_autumn",
+    "name": "ÇïŠ—ÃÃ¤Î¤Ê¤¯í•¤Ë in the autumn sky - ¤Ð¤ó¤Ð¤ó¤·©`",
+    "description": "ÇïŠ—ÃÃ¤Î¤Ê¤¯í•¤Ë in the autumn sky - ¤Ð¤ó¤Ð¤ó¤·©`",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:qiu_zi_mei_nonakuqing_ni_in_the_autumn_sky"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

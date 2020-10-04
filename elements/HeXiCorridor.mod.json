@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "he_xi_corridor",
+    "name": "He Xi Corridor - Yanni ",
+    "description": "He Xi Corridor - Yanni ",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:he_xi_corridor"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
