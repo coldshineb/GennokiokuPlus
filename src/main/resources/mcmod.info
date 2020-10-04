@@ -14,7 +14,9 @@
     ],
     "dependencies": [],
     "dependants": [],
-    "requiredMods": [],
+    "requiredMods": [
+      "stomtcraftcore"
+    ],
     "useDependencyInformation": "true"
   }
 ]

@@ -505,7 +505,9 @@
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "logo",
-    "requiredMods": [],
+    "requiredMods": [
+      "stomtcraftcore"
+    ],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
