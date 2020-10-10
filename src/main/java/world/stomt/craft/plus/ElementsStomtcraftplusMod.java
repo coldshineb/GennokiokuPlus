@@ -76,8 +76,38 @@ public class ElementsStomtcraftplusMod implements IFuelHandler, IWorldGenerator 
 				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "yan_yu_xing_zhou")));
 		sounds.put(new ResourceLocation("stomtcraftplus", "forbidden_love"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "forbidden_love")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "positive_outlook"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "positive_outlook")));
 		sounds.put(new ResourceLocation("stomtcraftplus", "da_shang_hua_huo"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "da_shang_hua_huo")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "dream_it_possible"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "dream_it_possible")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "jin_ling_yao"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "jin_ling_yao")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "fan_hua_chang_bian_luo"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "fan_hua_chang_bian_luo")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "huan_qin"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "huan_qin")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "liu_nian_ru_ge"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "liu_nian_ru_ge")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "gou_zhi_qi_shi"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "gou_zhi_qi_shi")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "hu_xin_ting_kan_xue"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "hu_xin_ting_kan_xue")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "sheng_cun_zai_mao_xian"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "sheng_cun_zai_mao_xian")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "suo_ni_ya_si_zhan_dou_shi"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "suo_ni_ya_si_zhan_dou_shi")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "with_an_orchid"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "with_an_orchid")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "end_dragon_survive_1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "end_dragon_survive_1")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "itumohe_du_demo"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "itumohe_du_demo")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "tunajue_xing"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "tunajue_xing")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "wen_koeteimasukapu_ranosheng"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "wen_koeteimasukapu_ranosheng")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

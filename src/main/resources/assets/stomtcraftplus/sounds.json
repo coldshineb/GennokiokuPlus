@@ -98,12 +98,147 @@
       }
     ]
   },
+  "positive_outlook": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:david_hoffner_-_positive_outlook",
+        "stream": true
+      }
+    ]
+  },
   "da_shang_hua_huo": {
-    "category": "master",
+    "category": "music",
     "sounds": [
       {
         "name": "stomtcraftplus:daoko_dawoko___mi_jin_xuan_shi__yonedu_kensi_-_da_shang_hua_huo_",
-        "stream": false
+        "stream": true
+      }
+    ]
+  },
+  "dream_it_possible": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:delacey_-_dream_it_possible",
+        "stream": true
+      }
+    ]
+  },
+  "jin_ling_yao": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:guo_feng_tang_yin_lin__-_jin_ling_yao_",
+        "stream": true
+      }
+    ]
+  },
+  "fan_hua_chang_bian_luo": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:uruutluo_tian_yi__-_fan_hua_chang_bian_coverle_zheng_ling_",
+        "stream": true
+      }
+    ]
+  },
+  "huan_qin": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:lin_hai__-_huan_qin_",
+        "stream": true
+      }
+    ]
+  },
+  "liu_nian_ru_ge": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:liu_nian_ru_ge_2020bai_nian_ji_dan_pin___-_1.liu_nian_ru_ge_av78978783p1_01",
+        "stream": true
+      }
+    ]
+  },
+  "gou_zhi_qi_shi": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:luo_tian_yi_ilem_-_gou_zhi_qi_shi_",
+        "stream": true
+      }
+    ]
+  },
+  "hu_xin_ting_kan_xue": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:luo_tian_yi_le_zheng_ling__-_hu_xin_ting_kan_xue_",
+        "stream": true
+      }
+    ]
+  },
+  "sheng_cun_zai_mao_xian": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:qiu_feng_sheng_cun_zai_mou_xian_",
+        "stream": true
+      }
+    ]
+  },
+  "suo_ni_ya_si_zhan_dou_shi": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:qiu_feng_suo_ni_ya_si_zhan_dou_shi_",
+        "stream": true
+      }
+    ]
+  },
+  "with_an_orchid": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:ya_ni__-_with_an_orchid",
+        "stream": true
+      }
+    ]
+  },
+  "end_dragon_survive_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:wu_qiu_feng_zhong_jie_long_sheng_cun_bgm1",
+        "stream": true
+      }
+    ]
+  },
+  "itumohe_du_demo": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:zong_ci_lang__-_itumohe_du_demo",
+        "stream": true
+      }
+    ]
+  },
+  "tunajue_xing": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:zuo_qiao_jun_yan__-_tunajue_xing_",
+        "stream": true
+      }
+    ]
+  },
+  "wen_koeteimasukapu_ranosheng": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:macsv_-_wen_koeteimasukapu_ranosheng_ga...",
+        "stream": true
       }
     ]
   }
