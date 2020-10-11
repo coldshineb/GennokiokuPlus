@@ -1,6 +1,6 @@
 tile.loop_line_of_creation_land.name=创新港环线
 tile.interplanetary_metro.name=星际轨道交通
-itemGroup.tabroad_expanded=守护工艺 - 道路扩展
+itemGroup.tabroad_expanded=守护工艺 | 道路扩展
 item.stomtcraft_inverse.name=守护工艺图标(反向)
 tile.platform_block.name=站台方块
 item.he_xi_corridor.name=河西走廊之梦 - Yanni 
@@ -71,6 +71,7 @@ item.gou_zhi_qi_shi.name=勾指起誓 - 洛天依
 item.sheng_cun_zai_mao_xian.name=生存再冒险
 tile.line8.name=8号线
 item.record.du_juan_yuan_wu_qu.desc=杜鹃圆舞曲 - Various Artists
+tile.light_box_exit_dark.name=Exit Dark
 item.wen_koeteimasukapu_ranosheng.name=聞こえていますか僕らの声が… - macsv
 item.record.jin_ling_yao.desc=金陵谣 - 银临
 item.record.ren_jian_feng_jing.desc=人间风景 - 忘乡

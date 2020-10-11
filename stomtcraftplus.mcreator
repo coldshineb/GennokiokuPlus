@@ -483,6 +483,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "road_expanded"
+    },
+    {
+      "name": "LightBoxExitDark",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_box_exit_dark"
     }
   ],
   "variable_elements": [],
@@ -625,8 +634,8 @@
   ],
   "language_map": {
     "en_us": {
-      "tile.loop_line_of_creation_land.name": "Loop line of Creation Land",
       "tile.interplanetary_metro.name": "Interplanetary Metro",
+      "tile.loop_line_of_creation_land.name": "Loop line of Creation Land",
       "itemGroup.tabroad_expanded": "StomtCraft | Road Expanded",
       "item.stomtcraft_inverse.name": "Stomt Craft Logo(Inverse)",
       "tile.platform_block.name": "Platform Block",
@@ -637,8 +646,8 @@
       "item.yi_xia_si_xiang.name": "Yi Xia Si Xiang - MoreanP",
       "item.dancing_butterflies.name": "Dancing Butterflies - The New Asia Ensemble",
       "tile.line1.name": "Line 1",
-      "tile.platform_side_right_2.name": "Platform Side Right 2",
       "item.record.with_an_orchid.desc": "With An Orchid - Yanni",
+      "tile.platform_side_right_2.name": "Platform Side Right 2",
       "item.record.itumohe_du_demo.desc": "いつも何度でも - 宗次郎",
       "item.record.hu_xin_ting_kan_xue.desc": "Hu Xin Ting Kan Xue - Luo Tianyi,Yue Zhengliling",
       "item.record.he_xi_corridor.desc": "He Xi Corridor - Yanni ",
@@ -698,6 +707,7 @@
       "item.sheng_cun_zai_mao_xian.name": "Sheng Cun Zai Mao Xian ",
       "tile.line8.name": "Line 8",
       "item.record.du_juan_yuan_wu_qu.desc": "Du Juan Yuan Wu Qu - Various Artists",
+      "tile.light_box_exit_dark.name": "Exit Dark",
       "item.wen_koeteimasukapu_ranosheng.name": "聞こえていますか僕らの声が… - macsv",
       "item.record.jin_ling_yao.desc": "Jin Ling Yao - Yin Lin",
       "item.record.ren_jian_feng_jing.desc": "Ren Jian Feng Jing - Wang Xiang",
@@ -708,7 +718,7 @@
     "zh_cn": {
       "tile.loop_line_of_creation_land.name": "创新港环线",
       "tile.interplanetary_metro.name": "星际轨道交通",
-      "itemGroup.tabroad_expanded": "守护工艺 - 道路扩展",
+      "itemGroup.tabroad_expanded": "守护工艺 | 道路扩展",
       "item.stomtcraft_inverse.name": "守护工艺图标(反向)",
       "tile.platform_block.name": "站台方块",
       "item.he_xi_corridor.name": "河西走廊之梦 - Yanni ",
@@ -779,6 +789,7 @@
       "item.sheng_cun_zai_mao_xian.name": "生存再冒险",
       "tile.line8.name": "8号线",
       "item.record.du_juan_yuan_wu_qu.desc": "杜鹃圆舞曲 - Various Artists",
+      "tile.light_box_exit_dark.name": "Exit Dark",
       "item.wen_koeteimasukapu_ranosheng.name": "聞こえていますか僕らの声が… - macsv",
       "item.record.jin_ling_yao.desc": "金陵谣 - 银临",
       "item.record.ren_jian_feng_jing.desc": "人间风景 - 忘乡",

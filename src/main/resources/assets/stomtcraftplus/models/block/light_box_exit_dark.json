@@ -1,0 +1,9 @@
+{
+  "parent": "stomtcraftplus:custom/light_box_dark",
+  "textures": {
+    "all": "stomtcraftplus:blocks/light_box_exit_dark",
+    "particle": "stomtcraftplus:blocks/light_box_exit_dark",
+    "0": "stomtcraftplus:blocks/light_box_exit_dark",
+    "1": "stomtcraftplus:blocks/light_box_dark"
+  }
+}
