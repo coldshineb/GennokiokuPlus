@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "stomtcraftplus:road_oblique_arrow"
+    },
+    "facing=north": {
+      "model": "stomtcraftplus:road_oblique_arrow"
+    },
+    "facing=east": {
+      "model": "stomtcraftplus:road_oblique_arrow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stomtcraftplus:road_oblique_arrow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stomtcraftplus:road_oblique_arrow",
+      "y": 270
+    }
+  }
+}

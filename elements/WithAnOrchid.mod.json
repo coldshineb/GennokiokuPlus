@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc_a_walk_in_the_rain",
+    "name": "With An Orchid - Yanni",
+    "description": "With An Orchid - Yanni",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:with_an_orchid"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

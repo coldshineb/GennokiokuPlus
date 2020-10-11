@@ -1,5 +1,6 @@
 tile.loop_line_of_creation_land.name=Loop line of Creation Land
 tile.interplanetary_metro.name=Interplanetary Metro
+itemGroup.tabroad_expanded=StomtCraft | Road Expanded
 item.stomtcraft_inverse.name=Stomt Craft Logo(Inverse)
 tile.platform_block.name=Platform Block
 tile.line7.name=Line 7
@@ -61,6 +62,7 @@ item.record.sheng_cun_zai_mao_xian.desc=Sheng Cun Zai Mao Xian
 item.record.suo_ni_ya_si.desc=Suo Ni Ya Si Zhan Dou Shi
 item.record.dancing_butterflies.desc=Dancing Butterflies - The New Asia Ensemble
 item.record.gou_zhi_qi_shi.desc=Gou Zhi Qi Shi - Luo Tianyi
+tile.road_oblique_arrow.name=Road Oblique Arrow
 item.qiu_zi_mei_in_the_autumn.name=秋姉妹のなく頃に in the autumn sky - ばんばんしー
 tile.line2.name=Line 2
 tile.line5.name=Line 5

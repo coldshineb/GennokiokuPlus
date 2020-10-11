@@ -52,7 +52,7 @@ public class BlockPlatformSideRight2 extends ElementsStomtcraftplusMod.ModElemen
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("platform_side_right_2");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);

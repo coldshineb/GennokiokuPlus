@@ -40,7 +40,7 @@ public class BlockLine6 extends ElementsStomtcraftplusMod.ModElement {
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("line6");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "chesterccj",
+    "name": "Suo Ni Ya Si Zhan Dou Shi",
+    "description": "Suo Ni Ya Si Zhan Dou Shi",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:suo_ni_ya_si_zhan_dou_shi"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

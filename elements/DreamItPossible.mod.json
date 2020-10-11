@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dream_it_possible",
+    "name": "Dream It Possible - Delacey",
+    "description": "Dream It Possible - Delacey",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:dream_it_possible"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

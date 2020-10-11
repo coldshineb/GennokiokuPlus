@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "positive_outlook",
+    "name": "Positive Outlook - David Hoffner",
+    "description": "Positive Outlook - David Hoffner",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:positive_outlook"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

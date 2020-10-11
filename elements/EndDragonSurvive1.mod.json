@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "chesterccj",
+    "name": "End Dragon Survive 1",
+    "description": "End Dragon Survive 1",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:end_dragon_survive_1"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

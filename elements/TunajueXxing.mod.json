@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "du_juan_yuan_wu_qu",
+    "name": "¥Ä¥ÊÒ™ÐÑ - ×ô˜ò¿¡Ñå",
+    "description": "¥Ä¥ÊÒ™ÐÑ - ×ô˜ò¿¡Ñå",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:tunajue_xing"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

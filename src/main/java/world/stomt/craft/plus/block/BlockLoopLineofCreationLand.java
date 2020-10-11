@@ -41,7 +41,7 @@ public class BlockLoopLineofCreationLand extends ElementsStomtcraftplusMod.ModEl
 		public BlockCustom() {
 			super(Material.ROCK);
 			setUnlocalizedName("loop_line_of_creation_land");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "itumohe_du_demo",
+    "name": "いつも何度でも - 宗次郎",
+    "description": "いつも何度でも - 宗次郎",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:itumohe_du_demo"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

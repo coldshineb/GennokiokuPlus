@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "yan_yu_xing_zhou",
+    "name": "Hu Xin Ting Kan Xue - Luo Tianyi,Yue Zhengliling",
+    "description": "Hu Xin Ting Kan Xue - Luo Tianyi,Yue Zhengliling",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:hu_xin_ting_kan_xue"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "liu_nian_ru_ge",
+    "name": "Liu Nian Ru Ge - Cang Qiong",
+    "description": "Liu Nian Ru Ge - Cang Qiong",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:liu_nian_ru_ge"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

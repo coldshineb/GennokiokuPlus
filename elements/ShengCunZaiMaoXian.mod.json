@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "chesterccj",
+    "name": "Sheng Cun Zai Mao Xian ",
+    "description": "Sheng Cun Zai Mao Xian ",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:sheng_cun_zai_mao_xian"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
