@@ -1,0 +1,7 @@
+{
+  "parent": "stomtcraftplus:custom/light_box",
+  "textures": {
+    "all": "stomtcraftplus:blocks/light_box_dark",
+    "particle": "stomtcraftplus:blocks/light_box_dark"
+  }
+}

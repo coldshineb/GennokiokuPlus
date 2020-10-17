@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "StomtCraft | Misc",
+    "icon": {
+      "value": "CUSTOM:StomtCraft"
+    },
+    "showSearch": false
+  }
+}

@@ -2,18 +2,18 @@
   "_fv": 10,
   "_type": "block",
   "definition": {
-    "texture": "light_box_exit_dark",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 2,
-    "customModelName": "light_box_dark:light_box_exit_dark",
-    "rotationMode": 1,
+    "texture": "dirt_way_grey",
+    "textureTop": "dirt_way_grey",
+    "textureLeft": "dirt_way_grey",
+    "textureFront": "dirt_way_grey",
+    "textureRight": "dirt_way_grey",
+    "textureBack": "dirt_way_grey",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
     "emissiveRendering": false,
     "itemTexture": "",
-    "hasTransparency": true,
+    "hasTransparency": false,
     "connectedSides": false,
     "transparencyType": "SOLID",
     "mx": 0.0,
@@ -21,14 +21,14 @@
     "mz": 0.0,
     "Mx": 1.0,
     "My": 1.0,
-    "Mz": 0.187,
-    "name": "Exit Dark",
+    "Mz": 1.0,
+    "name": "Dirt Way Grey",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
-    "hasGravity": false,
+    "hasGravity": true,
     "creativeTab": {
-      "value": "CUSTOM:MetroStationBlock"
+      "value": "CUSTOM:Nature"
     },
     "destroyTool": "Not specified",
     "customDrop": {
@@ -39,9 +39,9 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 0,
+    "lightOpacity": 255,
     "material": {
-      "value": "ROCK"
+      "value": "SAND"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -59,7 +59,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GROUND"
     },
     "luminance": 0.0,
     "unbreakable": false,

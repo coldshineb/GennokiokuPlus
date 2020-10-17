@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stomtcraftplus:blocks/dirt_way",
+    "up": "stomtcraftplus:blocks/dirt_way",
+    "north": "stomtcraftplus:blocks/dirt_way",
+    "east": "stomtcraftplus:blocks/dirt_way",
+    "south": "stomtcraftplus:blocks/dirt_way",
+    "west": "stomtcraftplus:blocks/dirt_way",
+    "particle": "stomtcraftplus:blocks/dirt_way"
+  }
+}

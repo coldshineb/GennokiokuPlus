@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stomtcraftplus:blocks/basalt",
+    "up": "stomtcraftplus:blocks/basalt",
+    "north": "stomtcraftplus:blocks/basalt",
+    "east": "stomtcraftplus:blocks/basalt",
+    "south": "stomtcraftplus:blocks/basalt",
+    "west": "stomtcraftplus:blocks/basalt",
+    "particle": "stomtcraftplus:blocks/basalt"
+  }
+}

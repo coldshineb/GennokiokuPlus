@@ -30,16 +30,16 @@ import net.minecraft.block.BlockHorizontal;
 import net.minecraft.block.Block;
 
 @ElementsStomtcraftplusMod.ModElement.Tag
-public class BlockLightBoxExitDark extends ElementsStomtcraftplusMod.ModElement {
-	@GameRegistry.ObjectHolder("stomtcraftplus:light_box_exit_dark")
+public class BlockLightBoxDark extends ElementsStomtcraftplusMod.ModElement {
+	@GameRegistry.ObjectHolder("stomtcraftplus:light_box_dark")
 	public static final Block block = null;
-	public BlockLightBoxExitDark(ElementsStomtcraftplusMod instance) {
+	public BlockLightBoxDark(ElementsStomtcraftplusMod instance) {
 		super(instance, 55);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("light_box_exit_dark"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("light_box_dark"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -47,17 +47,17 @@ public class BlockLightBoxExitDark extends ElementsStomtcraftplusMod.ModElement 
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("stomtcraftplus:light_box_exit_dark", "inventory"));
+				new ModelResourceLocation("stomtcraftplus:light_box_dark", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public static final PropertyDirection FACING = BlockHorizontal.FACING;
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("light_box_exit_dark");
+			setUnlocalizedName("light_box_dark");
 			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
-			setLightLevel(0F);
+			setLightLevel(1F);
 			setLightOpacity(0);
 			setCreativeTab(TabMetroStationBlock.tab);
 			this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));
@@ -75,13 +75,13 @@ public class BlockLightBoxExitDark extends ElementsStomtcraftplusMod.ModElement 
 				case DOWN :
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(1D, 0D, 1D, 0D, 1D, 0.813D);
+					return new AxisAlignedBB(1D, 0D, 0.688D, 0D, 1D, 0.313D);
 				case NORTH :
-					return new AxisAlignedBB(0D, 0D, 0D, 1D, 1D, 0.187D);
+					return new AxisAlignedBB(0D, 0D, 0.312D, 1D, 1D, 0.687D);
 				case WEST :
-					return new AxisAlignedBB(0D, 0D, 1D, 0.187D, 1D, 0D);
+					return new AxisAlignedBB(0.312D, 0D, 1D, 0.687D, 1D, 0D);
 				case EAST :
-					return new AxisAlignedBB(1D, 0D, 0D, 0.813D, 1D, 1D);
+					return new AxisAlignedBB(0.688D, 0D, 0D, 0.313D, 1D, 1D);
 			}
 		}
 

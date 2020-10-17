@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "StomtCraft | Nature",
+    "icon": {
+      "value": "CUSTOM:DirtWay"
+    },
+    "showSearch": false
+  }
+}
