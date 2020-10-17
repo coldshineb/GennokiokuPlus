@@ -494,15 +494,6 @@
       "registry_name": "light_box_dark"
     },
     {
-      "name": "Misc",
-      "type": "tab",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "misc"
-    },
-    {
       "name": "DirtWay",
       "type": "block",
       "sortid": 57,
@@ -775,7 +766,7 @@
       "item.yan_yu_xing_zhou.name": "Yan Yu Xing Zhou - Si Nan",
       "item.record.sheng_cun_zai_mao_xian.desc": "Sheng Cun Zai Mao Xian ",
       "item.record.suo_ni_ya_si.desc": "Suo Ni Ya Si Zhan Dou Shi",
-      "tile.dirt_way_grey.name": "Dirt Way Grey",
+      "tile.dirt_way_grey.name": "Grey Dirt Way",
       "item.record.dancing_butterflies.desc": "Dancing Butterflies - The New Asia Ensemble",
       "item.record.gou_zhi_qi_shi.desc": "Gou Zhi Qi Shi - Luo Tianyi",
       "tile.road_oblique_arrow.name": "Oblique Arrow",
@@ -788,7 +779,6 @@
       "tile.line8.name": "Line 8",
       "item.record.du_juan_yuan_wu_qu.desc": "Du Juan Yuan Wu Qu - Various Artists",
       "item.wen_koeteimasukapu_ranosheng.name": "Â„¤³¤¨¤Æ¤¤¤Ş¤¹¤«ƒW¤é¤ÎÉù¤¬¡­ - macsv",
-      "itemGroup.tabmisc": "StomtCraft | Misc",
       "item.record.jin_ling_yao.desc": "Jin Ling Yao - Yin Lin",
       "item.record.ren_jian_feng_jing.desc": "Ren Jian Feng Jing - Wang Xiang",
       "item.tunajue_xing.name": "¥Ä¥ÊÒ™ĞÑ - ×ô˜ò¿¡Ñå",
@@ -878,7 +868,6 @@
       "tile.line8.name": "8ºÅÏß",
       "item.record.du_juan_yuan_wu_qu.desc": "¶Å¾éÔ²ÎèÇú - Various Artists",
       "item.wen_koeteimasukapu_ranosheng.name": "Â„¤³¤¨¤Æ¤¤¤Ş¤¹¤«ƒW¤é¤ÎÉù¤¬¡­ - macsv",
-      "itemGroup.tabmisc": "ÊØ»¤¹¤ÒÕ | ÔÓÏî",
       "item.record.jin_ling_yao.desc": "½ğÁêÒ¥ - ÒøÁÙ",
       "item.record.ren_jian_feng_jing.desc": "ÈË¼ä·ç¾° - ÍüÏç",
       "item.tunajue_xing.name": "¥Ä¥ÊÒ™ĞÑ - ×ô˜ò¿¡Ñå",

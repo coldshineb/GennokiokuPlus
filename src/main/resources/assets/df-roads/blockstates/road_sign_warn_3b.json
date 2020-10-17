@@ -3,7 +3,7 @@
     "defaults" : {
         "textures": {
             "front": "df-roads:blocks/road_sign_warn_3b",
-            "back": "df-roads:blocks/road_sign_back_round"
+            "back": "df-roads:blocks/road_sign_back_triangle"
         }
     },
     "variants": {
