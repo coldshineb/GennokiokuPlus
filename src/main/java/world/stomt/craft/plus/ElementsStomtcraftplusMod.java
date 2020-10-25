@@ -108,6 +108,8 @@ public class ElementsStomtcraftplusMod implements IFuelHandler, IWorldGenerator 
 				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "tunajue_xing")));
 		sounds.put(new ResourceLocation("stomtcraftplus", "wen_koeteimasukapu_ranosheng"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "wen_koeteimasukapu_ranosheng")));
+		sounds.put(new ResourceLocation("stomtcraftplus", "yi_fan_xing"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("stomtcraftplus", "yi_fan_xing")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

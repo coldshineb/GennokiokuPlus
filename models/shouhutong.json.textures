@@ -1,0 +1,25 @@
+{
+  "mappings": {
+    "single": {
+      "map": {
+        "back": "one_way_ticket_back",
+        "front": "one_way_ticket_front"
+      },
+      "name": "single"
+    },
+    "default": {
+      "map": {
+        "back": "",
+        "front": ""
+      },
+      "name": "default"
+    },
+    "shouhutong": {
+      "map": {
+        "back": "shouhutong_back",
+        "front": "shouhutong_front"
+      },
+      "name": "shouhutong"
+    }
+  }
+}

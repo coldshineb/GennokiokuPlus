@@ -241,5 +241,14 @@
         "stream": true
       }
     ]
+  },
+  "yi_fan_xing": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "stomtcraftplus:tainakacai_zhi__-__fan_xing_",
+        "stream": true
+      }
+    ]
   }
 }

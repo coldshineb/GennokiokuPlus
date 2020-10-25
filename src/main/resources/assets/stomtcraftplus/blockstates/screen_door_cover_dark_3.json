@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "stomtcraftplus:screen_door_cover_dark_3"
+    },
+    "facing=north": {
+      "model": "stomtcraftplus:screen_door_cover_dark_3"
+    },
+    "facing=east": {
+      "model": "stomtcraftplus:screen_door_cover_dark_3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stomtcraftplus:screen_door_cover_dark_3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stomtcraftplus:screen_door_cover_dark_3",
+      "y": 270
+    }
+  }
+}

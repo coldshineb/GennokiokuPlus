@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "du_juan_yuan_wu_qu",
+    "name": "Ò»·¬ÐÇ - ¥¿¥¤¥Ê¥«²ÊÖÇ",
+    "description": "Ò»·¬ÐÇ - ¥¿¥¤¥Ê¥«²ÊÖÇ",
+    "creativeTab": {
+      "value": "CUSTOM:Musife"
+    },
+    "music": {
+      "value": "CUSTOM:yi_fan_xing"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

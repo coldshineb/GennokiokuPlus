@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "face": ""
+      },
+      "name": "default"
+    },
+    "light": {
+      "map": {
+        "face": "screen_door_cover_face_light"
+      },
+      "name": "light"
+    },
+    "dark": {
+      "map": {
+        "face": "screen_door_cover_face_dark"
+      },
+      "name": "dark"
+    }
+  }
+}
