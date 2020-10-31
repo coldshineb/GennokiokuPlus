@@ -20,7 +20,7 @@ public class ItemYanYuXingZhou extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:yan_yu_xing_zhou")
 	public static final Item block = null;
 	public ItemYanYuXingZhou(ElementsStomtcraftplusMod instance) {
-		super(instance, 37);
+		super(instance, 42);
 	}
 
 	@Override

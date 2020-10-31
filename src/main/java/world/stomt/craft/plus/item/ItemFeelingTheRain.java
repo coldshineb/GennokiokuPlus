@@ -20,7 +20,7 @@ public class ItemFeelingTheRain extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:feeling_the_rain")
 	public static final Item block = null;
 	public ItemFeelingTheRain(ElementsStomtcraftplusMod instance) {
-		super(instance, 32);
+		super(instance, 37);
 	}
 
 	@Override

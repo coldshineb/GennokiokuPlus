@@ -20,7 +20,7 @@ public class ItemDuJuanYuanWuQu extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:du_juan_yuan_wu_qu")
 	public static final Item block = null;
 	public ItemDuJuanYuanWuQu(ElementsStomtcraftplusMod instance) {
-		super(instance, 31);
+		super(instance, 36);
 	}
 
 	@Override

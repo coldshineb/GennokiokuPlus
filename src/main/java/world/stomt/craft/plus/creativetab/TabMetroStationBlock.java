@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsStomtcraftplusMod.ModElement.Tag
 public class TabMetroStationBlock extends ElementsStomtcraftplusMod.ModElement {
 	public TabMetroStationBlock(ElementsStomtcraftplusMod instance) {
-		super(instance, 25);
+		super(instance, 78);
 	}
 
 	@Override

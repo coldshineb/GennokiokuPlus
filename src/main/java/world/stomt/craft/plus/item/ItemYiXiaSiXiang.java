@@ -20,7 +20,7 @@ public class ItemYiXiaSiXiang extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:yi_xia_si_xiang")
 	public static final Item block = null;
 	public ItemYiXiaSiXiang(ElementsStomtcraftplusMod instance) {
-		super(instance, 33);
+		super(instance, 38);
 	}
 
 	@Override

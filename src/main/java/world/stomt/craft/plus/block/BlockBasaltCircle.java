@@ -22,7 +22,7 @@ public class BlockBasaltCircle extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:basalt_circle")
 	public static final Block block = null;
 	public BlockBasaltCircle(ElementsStomtcraftplusMod instance) {
-		super(instance, 61);
+		super(instance, 76);
 	}
 
 	@Override

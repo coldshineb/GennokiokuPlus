@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsStomtcraftplusMod.ModElement.Tag
 public class TabRoadExpanded extends ElementsStomtcraftplusMod.ModElement {
 	public TabRoadExpanded(ElementsStomtcraftplusMod instance) {
-		super(instance, 54);
+		super(instance, 82);
 	}
 
 	@Override

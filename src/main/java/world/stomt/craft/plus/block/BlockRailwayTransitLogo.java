@@ -22,7 +22,7 @@ public class BlockRailwayTransitLogo extends ElementsStomtcraftplusMod.ModElemen
 	@GameRegistry.ObjectHolder("stomtcraftplus:railway_transit_logo")
 	public static final Block block = null;
 	public BlockRailwayTransitLogo(ElementsStomtcraftplusMod instance) {
-		super(instance, 67);
+		super(instance, 27);
 	}
 
 	@Override

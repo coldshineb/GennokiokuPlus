@@ -26,7 +26,7 @@ public class BlockLollipopColumn extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:lollipop_column")
 	public static final Block block = null;
 	public BlockLollipopColumn(ElementsStomtcraftplusMod instance) {
-		super(instance, 68);
+		super(instance, 28);
 	}
 
 	@Override

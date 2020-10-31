@@ -23,7 +23,7 @@ import java.util.ArrayList;
 @ElementsStomtcraftplusMod.ModElement.Tag
 public class CommandCmdscp extends ElementsStomtcraftplusMod.ModElement {
 	public CommandCmdscp(ElementsStomtcraftplusMod instance) {
-		super(instance, 26);
+		super(instance, 79);
 	}
 
 	@Override

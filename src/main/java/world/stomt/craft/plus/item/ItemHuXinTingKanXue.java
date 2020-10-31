@@ -20,7 +20,7 @@ public class ItemHuXinTingKanXue extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:hu_xin_ting_kan_xue")
 	public static final Item block = null;
 	public ItemHuXinTingKanXue(ElementsStomtcraftplusMod instance) {
-		super(instance, 46);
+		super(instance, 51);
 	}
 
 	@Override

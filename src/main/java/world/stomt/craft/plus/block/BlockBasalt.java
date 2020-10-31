@@ -22,7 +22,7 @@ public class BlockBasalt extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:basalt")
 	public static final Block block = null;
 	public BlockBasalt(ElementsStomtcraftplusMod instance) {
-		super(instance, 59);
+		super(instance, 74);
 	}
 
 	@Override

@@ -34,7 +34,7 @@ public class BlockRoadObliqueArrow extends ElementsStomtcraftplusMod.ModElement 
 	@GameRegistry.ObjectHolder("stomtcraftplus:road_oblique_arrow")
 	public static final Block block = null;
 	public BlockRoadObliqueArrow(ElementsStomtcraftplusMod instance) {
-		super(instance, 53);
+		super(instance, 59);
 	}
 
 	@Override

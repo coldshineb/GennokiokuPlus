@@ -20,7 +20,7 @@ public class ItemRenJianFengJing extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:ren_jian_feng_jing")
 	public static final Item block = null;
 	public ItemRenJianFengJing(ElementsStomtcraftplusMod instance) {
-		super(instance, 23);
+		super(instance, 33);
 	}
 
 	@Override

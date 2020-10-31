@@ -34,7 +34,7 @@ public class BlockScreenDoorCoverLight extends ElementsStomtcraftplusMod.ModElem
 	@GameRegistry.ObjectHolder("stomtcraftplus:screen_door_cover_light")
 	public static final Block block = null;
 	public BlockScreenDoorCoverLight(ElementsStomtcraftplusMod instance) {
-		super(instance, 64);
+		super(instance, 24);
 	}
 
 	@Override

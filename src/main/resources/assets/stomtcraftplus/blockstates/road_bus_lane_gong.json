@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "stomtcraftplus:road_bus_lane_gong"
+    },
+    "facing=north": {
+      "model": "stomtcraftplus:road_bus_lane_gong"
+    },
+    "facing=east": {
+      "model": "stomtcraftplus:road_bus_lane_gong",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stomtcraftplus:road_bus_lane_gong",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stomtcraftplus:road_bus_lane_gong",
+      "y": 270
+    }
+  }
+}

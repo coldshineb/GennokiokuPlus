@@ -20,7 +20,7 @@ public class ItemHuanQin extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:huan_qin")
 	public static final Item block = null;
 	public ItemHuanQin(ElementsStomtcraftplusMod instance) {
-		super(instance, 43);
+		super(instance, 48);
 	}
 
 	@Override

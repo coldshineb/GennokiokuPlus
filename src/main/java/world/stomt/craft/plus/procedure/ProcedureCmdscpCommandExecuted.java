@@ -11,7 +11,7 @@ import java.util.Map;
 @ElementsStomtcraftplusMod.ModElement.Tag
 public class ProcedureCmdscpCommandExecuted extends ElementsStomtcraftplusMod.ModElement {
 	public ProcedureCmdscpCommandExecuted(ElementsStomtcraftplusMod instance) {
-		super(instance, 27);
+		super(instance, 80);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

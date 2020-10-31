@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "stomtcraftplus:road_road_oblique_bus"
+    },
+    "facing=north": {
+      "model": "stomtcraftplus:road_road_oblique_bus"
+    },
+    "facing=east": {
+      "model": "stomtcraftplus:road_road_oblique_bus",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stomtcraftplus:road_road_oblique_bus",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stomtcraftplus:road_road_oblique_bus",
+      "y": 270
+    }
+  }
+}

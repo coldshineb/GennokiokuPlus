@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsStomtcraftplusMod.ModElement.Tag
 public class TabMusife extends ElementsStomtcraftplusMod.ModElement {
 	public TabMusife(ElementsStomtcraftplusMod instance) {
-		super(instance, 28);
+		super(instance, 81);
 	}
 
 	@Override

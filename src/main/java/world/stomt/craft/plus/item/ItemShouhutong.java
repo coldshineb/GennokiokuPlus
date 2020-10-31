@@ -20,7 +20,7 @@ public class ItemShouhutong extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:shouhutong")
 	public static final Item block = null;
 	public ItemShouhutong(ElementsStomtcraftplusMod instance) {
-		super(instance, 68);
+		super(instance, 29);
 	}
 
 	@Override

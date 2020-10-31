@@ -20,7 +20,7 @@ public class ItemWithAnOrchid extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:with_an_orchid")
 	public static final Item block = null;
 	public ItemWithAnOrchid(ElementsStomtcraftplusMod instance) {
-		super(instance, 50);
+		super(instance, 55);
 	}
 
 	@Override

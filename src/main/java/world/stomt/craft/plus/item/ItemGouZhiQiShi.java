@@ -20,7 +20,7 @@ public class ItemGouZhiQiShi extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:gou_zhi_qi_shi")
 	public static final Item block = null;
 	public ItemGouZhiQiShi(ElementsStomtcraftplusMod instance) {
-		super(instance, 45);
+		super(instance, 50);
 	}
 
 	@Override

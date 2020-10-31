@@ -1,0 +1,9 @@
+{
+  "parent": "stomtcraftplus:custom/road",
+  "textures": {
+    "all": "stomtcraftplus:blocks/road_road_oblique_bus",
+    "particle": "stomtcraftplus:blocks/road_road_oblique_bus",
+    "0": "stomtcraftplus:blocks/road",
+    "1": "stomtcraftplus:blocks/road_road_oblique_bus"
+  }
+}

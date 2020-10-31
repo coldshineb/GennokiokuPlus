@@ -20,7 +20,7 @@ public class ItemLiuNianRuGe extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:liu_nian_ru_ge")
 	public static final Item block = null;
 	public ItemLiuNianRuGe(ElementsStomtcraftplusMod instance) {
-		super(instance, 44);
+		super(instance, 49);
 	}
 
 	@Override

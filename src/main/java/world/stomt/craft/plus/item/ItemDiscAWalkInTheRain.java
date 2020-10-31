@@ -20,7 +20,7 @@ public class ItemDiscAWalkInTheRain extends ElementsStomtcraftplusMod.ModElement
 	@GameRegistry.ObjectHolder("stomtcraftplus:a_walk_in_the_rain")
 	public static final Item block = null;
 	public ItemDiscAWalkInTheRain(ElementsStomtcraftplusMod instance) {
-		super(instance, 21);
+		super(instance, 31);
 	}
 
 	@Override

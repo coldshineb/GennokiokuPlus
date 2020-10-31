@@ -20,7 +20,7 @@ public class ItemYiFanXing extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:yi_fan_xing")
 	public static final Item block = null;
 	public ItemYiFanXing(ElementsStomtcraftplusMod instance) {
-		super(instance, 70);
+		super(instance, 58);
 	}
 
 	@Override

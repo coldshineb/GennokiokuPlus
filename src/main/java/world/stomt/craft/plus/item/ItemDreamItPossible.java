@@ -20,7 +20,7 @@ public class ItemDreamItPossible extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:dream_it_possible")
 	public static final Item block = null;
 	public ItemDreamItPossible(ElementsStomtcraftplusMod instance) {
-		super(instance, 39);
+		super(instance, 44);
 	}
 
 	@Override

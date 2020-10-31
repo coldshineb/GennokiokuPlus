@@ -20,7 +20,7 @@ public class ItemWenKoeteimasukapuRanosheng extends ElementsStomtcraftplusMod.Mo
 	@GameRegistry.ObjectHolder("stomtcraftplus:wen_koeteimasukapu_ranosheng")
 	public static final Item block = null;
 	public ItemWenKoeteimasukapuRanosheng(ElementsStomtcraftplusMod instance) {
-		super(instance, 40);
+		super(instance, 45);
 	}
 
 	@Override

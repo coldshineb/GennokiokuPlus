@@ -20,7 +20,7 @@ public class ItemShengCunZaiMaoXian extends ElementsStomtcraftplusMod.ModElement
 	@GameRegistry.ObjectHolder("stomtcraftplus:sheng_cun_zai_mao_xian")
 	public static final Item block = null;
 	public ItemShengCunZaiMaoXian(ElementsStomtcraftplusMod instance) {
-		super(instance, 47);
+		super(instance, 52);
 	}
 
 	@Override

@@ -1,0 +1,102 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_zhuan"
+      },
+      "name": "default"
+    },
+    "road_oblique_arrow": {
+      "map": {
+        "0": "road",
+        "1": "road_oblique_arrow"
+      },
+      "name": "road_oblique_arrow"
+    },
+    "road_bus_lane": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane"
+      },
+      "name": "road_bus_lane"
+    },
+    "road_bus_lane_gong": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_gong"
+      },
+      "name": "road_bus_lane_gong"
+    },
+    "road_bus_lane_jiao": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_jiao"
+      },
+      "name": "road_bus_lane_jiao"
+    },
+    "road_bus_lane_lu": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_lu"
+      },
+      "name": "road_bus_lane_lu"
+    },
+    "road_bus_lane_time": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_time"
+      },
+      "name": "road_bus_lane_time"
+    },
+    "road_bus_lane_yong": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_yong"
+      },
+      "name": "road_bus_lane_yong"
+    },
+    "road_bus_lane_zhuan": {
+      "map": {
+        "0": "road_bus_lane",
+        "1": "road_bus_lane_zhuan"
+      },
+      "name": "road_bus_lane_zhuan"
+    },
+    "road_ped": {
+      "map": {
+        "0": "road",
+        "1": "road_ped"
+      },
+      "name": "road_ped"
+    },
+    "road_bus_oblique_road": {
+      "map": {
+        "0": "road",
+        "1": "road_bus_oblique_road"
+      },
+      "name": "road_bus_oblique_road"
+    },
+    "road_bus_road": {
+      "map": {
+        "0": "road",
+        "1": "road_bus_road"
+      },
+      "name": "road_bus_road"
+    },
+    "road_road_bus": {
+      "map": {
+        "0": "road",
+        "1": "road_road_bus"
+      },
+      "name": "road_road_bus"
+    },
+    "road_road_oblique_bus": {
+      "map": {
+        "0": "road",
+        "1": "road_road_oblique_bus"
+      },
+      "name": "road_road_oblique_bus"
+    }
+  }
+}

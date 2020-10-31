@@ -20,7 +20,7 @@ public class ItemItumoheDuDemo extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:itumohe_du_demo")
 	public static final Item block = null;
 	public ItemItumoheDuDemo(ElementsStomtcraftplusMod instance) {
-		super(instance, 51);
+		super(instance, 56);
 	}
 
 	@Override

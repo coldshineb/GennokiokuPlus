@@ -20,7 +20,7 @@ public class ItemForbiddenLove extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:forbidden_love")
 	public static final Item block = null;
 	public ItemForbiddenLove(ElementsStomtcraftplusMod instance) {
-		super(instance, 30);
+		super(instance, 35);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemDancingButterflies extends ElementsStomtcraftplusMod.ModElement
 	@GameRegistry.ObjectHolder("stomtcraftplus:dancing_butterflies")
 	public static final Item block = null;
 	public ItemDancingButterflies(ElementsStomtcraftplusMod instance) {
-		super(instance, 34);
+		super(instance, 39);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemSuoNiYaSi extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:suo_ni_ya_si")
 	public static final Item block = null;
 	public ItemSuoNiYaSi(ElementsStomtcraftplusMod instance) {
-		super(instance, 48);
+		super(instance, 53);
 	}
 
 	@Override

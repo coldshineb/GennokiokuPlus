@@ -20,7 +20,7 @@ public class ItemQiuZiMei extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:qiu_zi_mei")
 	public static final Item block = null;
 	public ItemQiuZiMei(ElementsStomtcraftplusMod instance) {
-		super(instance, 36);
+		super(instance, 41);
 	}
 
 	@Override

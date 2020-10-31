@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsStomtcraftplusMod.ModElement.Tag
 public class TabNature extends ElementsStomtcraftplusMod.ModElement {
 	public TabNature(ElementsStomtcraftplusMod instance) {
-		super(instance, 57);
+		super(instance, 83);
 	}
 
 	@Override

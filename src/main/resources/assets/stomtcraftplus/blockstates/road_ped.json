@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "stomtcraftplus:road_ped"
+    },
+    "facing=north": {
+      "model": "stomtcraftplus:road_ped"
+    },
+    "facing=east": {
+      "model": "stomtcraftplus:road_ped",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stomtcraftplus:road_ped",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stomtcraftplus:road_ped",
+      "y": 270
+    }
+  }
+}

@@ -20,7 +20,7 @@ public class ItemPositiveOutlook extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:positive_outlook")
 	public static final Item block = null;
 	public ItemPositiveOutlook(ElementsStomtcraftplusMod instance) {
-		super(instance, 38);
+		super(instance, 43);
 	}
 
 	@Override

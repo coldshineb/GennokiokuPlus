@@ -20,7 +20,7 @@ public class ItemFanHuaChangBian extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:fan_hua_chang_bian")
 	public static final Item block = null;
 	public ItemFanHuaChangBian(ElementsStomtcraftplusMod instance) {
-		super(instance, 41);
+		super(instance, 46);
 	}
 
 	@Override

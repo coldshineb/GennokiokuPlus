@@ -1,9 +1,9 @@
 {
-  "parent": "stomtcraftplus:custom/road_oblique_arrow",
+  "parent": "stomtcraftplus:custom/road",
   "textures": {
     "all": "stomtcraftplus:blocks/road_oblique_arrow",
     "particle": "stomtcraftplus:blocks/road_oblique_arrow",
     "0": "stomtcraftplus:blocks/road",
-    "top": "stomtcraftplus:blocks/road_oblique_arrow"
+    "1": "stomtcraftplus:blocks/road_oblique_arrow"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "parent": "stomtcraftplus:custom/road",
+  "textures": {
+    "all": "stomtcraftplus:blocks/road_ped",
+    "particle": "stomtcraftplus:blocks/road_ped",
+    "0": "stomtcraftplus:blocks/road",
+    "1": "stomtcraftplus:blocks/road_ped"
+  }
+}

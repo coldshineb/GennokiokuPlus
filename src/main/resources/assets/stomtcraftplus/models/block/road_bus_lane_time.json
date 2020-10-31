@@ -1,0 +1,9 @@
+{
+  "parent": "stomtcraftplus:custom/road",
+  "textures": {
+    "all": "stomtcraftplus:blocks/road_bus_lane_time",
+    "particle": "stomtcraftplus:blocks/road_bus_lane_time",
+    "0": "stomtcraftplus:blocks/road_bus_lane",
+    "1": "stomtcraftplus:blocks/road_bus_lane_time"
+  }
+}

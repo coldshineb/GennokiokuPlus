@@ -20,7 +20,7 @@ public class ItemHeXiCorridor extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:he_xi_corridor")
 	public static final Item block = null;
 	public ItemHeXiCorridor(ElementsStomtcraftplusMod instance) {
-		super(instance, 22);
+		super(instance, 32);
 	}
 
 	@Override

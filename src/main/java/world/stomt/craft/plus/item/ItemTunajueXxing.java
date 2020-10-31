@@ -20,7 +20,7 @@ public class ItemTunajueXxing extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:tunajue_xing")
 	public static final Item block = null;
 	public ItemTunajueXxing(ElementsStomtcraftplusMod instance) {
-		super(instance, 52);
+		super(instance, 57);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemOneWayTicket extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:one_way_ticket")
 	public static final Item block = null;
 	public ItemOneWayTicket(ElementsStomtcraftplusMod instance) {
-		super(instance, 69);
+		super(instance, 30);
 	}
 
 	@Override

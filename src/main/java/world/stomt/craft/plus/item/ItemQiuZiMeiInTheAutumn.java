@@ -20,7 +20,7 @@ public class ItemQiuZiMeiInTheAutumn extends ElementsStomtcraftplusMod.ModElemen
 	@GameRegistry.ObjectHolder("stomtcraftplus:qiu_zi_mei_in_the_autumn")
 	public static final Item block = null;
 	public ItemQiuZiMeiInTheAutumn(ElementsStomtcraftplusMod instance) {
-		super(instance, 35);
+		super(instance, 40);
 	}
 
 	@Override

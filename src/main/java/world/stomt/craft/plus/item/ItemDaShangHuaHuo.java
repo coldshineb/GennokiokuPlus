@@ -20,7 +20,7 @@ public class ItemDaShangHuaHuo extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:da_shang_hua_huo")
 	public static final Item block = null;
 	public ItemDaShangHuaHuo(ElementsStomtcraftplusMod instance) {
-		super(instance, 29);
+		super(instance, 34);
 	}
 
 	@Override

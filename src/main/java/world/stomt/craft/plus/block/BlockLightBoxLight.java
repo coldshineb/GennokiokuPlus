@@ -34,7 +34,7 @@ public class BlockLightBoxLight extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:light_box_light")
 	public static final Block block = null;
 	public BlockLightBoxLight(ElementsStomtcraftplusMod instance) {
-		super(instance, 62);
+		super(instance, 22);
 	}
 
 	@Override

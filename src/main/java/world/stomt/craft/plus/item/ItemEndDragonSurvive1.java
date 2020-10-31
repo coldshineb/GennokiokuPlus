@@ -20,7 +20,7 @@ public class ItemEndDragonSurvive1 extends ElementsStomtcraftplusMod.ModElement 
 	@GameRegistry.ObjectHolder("stomtcraftplus:end_dragon_survive_1")
 	public static final Item block = null;
 	public ItemEndDragonSurvive1(ElementsStomtcraftplusMod instance) {
-		super(instance, 49);
+		super(instance, 54);
 	}
 
 	@Override

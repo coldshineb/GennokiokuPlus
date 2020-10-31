@@ -15,7 +15,6 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
-import net.minecraft.block.BlockFalling;
 import net.minecraft.block.Block;
 
 @ElementsStomtcraftplusMod.ModElement.Tag
@@ -23,7 +22,7 @@ public class BlockDirtWay extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:dirt_way")
 	public static final Block block = null;
 	public BlockDirtWay(ElementsStomtcraftplusMod instance) {
-		super(instance, 57);
+		super(instance, 72);
 	}
 
 	@Override
@@ -38,7 +37,7 @@ public class BlockDirtWay extends ElementsStomtcraftplusMod.ModElement {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
 				new ModelResourceLocation("stomtcraftplus:dirt_way", "inventory"));
 	}
-	public static class BlockCustom extends BlockFalling {
+	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.SAND);
 			setUnlocalizedName("dirt_way");

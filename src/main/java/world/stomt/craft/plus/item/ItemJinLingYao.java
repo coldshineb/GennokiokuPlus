@@ -20,7 +20,7 @@ public class ItemJinLingYao extends ElementsStomtcraftplusMod.ModElement {
 	@GameRegistry.ObjectHolder("stomtcraftplus:jin_ling_yao")
 	public static final Item block = null;
 	public ItemJinLingYao(ElementsStomtcraftplusMod instance) {
-		super(instance, 42);
+		super(instance, 47);
 	}
 
 	@Override
