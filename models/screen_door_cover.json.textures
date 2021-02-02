@@ -2,25 +2,22 @@
   "mappings": {
     "default": {
       "map": {
-        "light_side": "",
-        "accent": "",
-        "light_front": ""
+        "face": "",
+        "down": ""
       },
       "name": "default"
     },
     "light": {
       "map": {
-        "light_side": "light",
-        "accent": "screen_door_cover_face_light",
-        "light_front": "screen_door_cover_face_light_light"
+        "face": "screen_door_cover_face_light",
+        "down": "screen_door_cover_down_light"
       },
       "name": "light"
     },
     "dark": {
       "map": {
-        "light_side": "light",
-        "accent": "screen_door_cover_face_dark",
-        "light_front": "screen_door_cover_face_dark_light"
+        "face": "screen_door_cover_face_dark",
+        "down": "screen_door_cover_down_dark"
       },
       "name": "dark"
     }

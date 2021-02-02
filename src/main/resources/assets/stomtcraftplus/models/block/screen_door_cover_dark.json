@@ -1,10 +1,9 @@
 {
   "parent": "stomtcraftplus:custom/screen_door_cover",
   "textures": {
-    "all": "stomtcraftplus:blocks/screen_door_cover_face_dark_light",
-    "particle": "stomtcraftplus:blocks/screen_door_cover_face_dark_light",
-    "light_side": "stomtcraftplus:blocks/light",
-    "accent": "stomtcraftplus:blocks/screen_door_cover_face_dark",
-    "light_front": "stomtcraftplus:blocks/screen_door_cover_face_dark_light"
+    "all": "stomtcraftplus:blocks/screen_door_cover_face_dark",
+    "particle": "stomtcraftplus:blocks/screen_door_cover_face_dark",
+    "face": "stomtcraftplus:blocks/screen_door_cover_face_dark",
+    "down": "stomtcraftplus:blocks/screen_door_cover_down_dark"
   }
 }

@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = StomtcraftplusMod.MODID, version = StomtcraftplusMod.VERSION)
 public class StomtcraftplusMod {
 	public static final String MODID = "stomtcraftplus";
-	public static final String VERSION = "1.11.2";
+	public static final String VERSION = "2021.1";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("stomtcraftplus:a");
 	@SidedProxy(clientSide = "world.stomt.craft.plus.ClientProxyStomtcraftplusMod", serverSide = "world.stomt.craft.plus.ServerProxyStomtcraftplusMod")
 	public static IProxyStomtcraftplusMod proxy;
