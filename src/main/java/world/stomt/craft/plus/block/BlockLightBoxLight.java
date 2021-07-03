@@ -71,17 +71,15 @@ public class BlockLightBoxLight extends ElementsStomtcraftplusMod.ModElement {
 		@Override
 		public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
 			switch ((EnumFacing) state.getValue(BlockHorizontal.FACING)) {
-				case UP :
-				case DOWN :
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(1D, 0D, 0.688D, 0D, 1D, 0.313D);
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 11.008, 0, 16, 5.008));
 				case NORTH :
-					return new AxisAlignedBB(0D, 0D, 0.312D, 1D, 1D, 0.687D);
-				case WEST :
-					return new AxisAlignedBB(0.312D, 0D, 1D, 0.687D, 1D, 0D);
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 4.992, 16, 16, 10.992));
 				case EAST :
-					return new AxisAlignedBB(0.688D, 0D, 0D, 0.313D, 1D, 1D);
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(11.008, 0, 0, 5.008, 16, 16));
+				case WEST :
+					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(4.992, 0, 16, 10.992, 16, 0));
 			}
 		}
 

@@ -1,9 +1,9 @@
 {
-  "_fv": 13,
+  "_fv": 18,
   "_type": "command",
   "definition": {
     "commandName": "scp",
-    "permissionLevel": 2,
+    "permissionLevel": "2",
     "onCommandExecuted": {
       "name": "CmdscpCommandExecuted"
     }
