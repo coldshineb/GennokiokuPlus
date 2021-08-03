@@ -1169,13 +1169,18 @@
       "item.yi_fan_xing.name": "Ò»·¬ÐÇ - ¥¿¥¤¥Ê¥«²ÊÖÇ"
     }
   },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
   "workspaceSettings": {
     "modid": "stomtcraftplus",
     "modName": "StomtCraftPlus",
-    "version": "2021.1",
+    "version": "2021.2",
     "description": "StomtCraft Plus for StomtCraft server ONLY.",
     "author": "Coldshine",
     "websiteURL": "https://craft.stomt.world/",
+    "license": "Not specified",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "logo",
@@ -1190,5 +1195,5 @@
     "modElementsPackage": "world.stomt.craft.plus",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000547520
+  "mcreatorVersion": 202100125117
 }
