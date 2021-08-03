@@ -9,7 +9,7 @@ buildscript {
 }
 apply plugin: 'net.minecraftforge.gradle.forge'
 
-version = "2021.1-1.12"
+version = "2021.2"
 group = "world.stomt.craft"
 archivesBaseName = "StomtCraftPlus"
 

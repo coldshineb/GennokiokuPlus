@@ -1,0 +1,7 @@
+{
+  "parent": "stomtcraftplus:custom/shouhutong",
+  "textures": {
+    "back": "stomtcraftplus:blocks/shouhutong_back",
+    "front": "stomtcraftplus:blocks/shouhutong_front"
+  }
+}
