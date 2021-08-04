@@ -21,8 +21,8 @@ public class ProcedureCmdscpCommandExecuted extends ElementsStomtcraftplusMod.Mo
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		if (entity instanceof EntityPlayer && !entity.world.isRemote) {
-			((EntityPlayer) entity).sendStatusMessage(new TextComponentString("[StomtCraftPlus \u5BA2\u6237\u7AEF\u4FA7]\u7248\u672C 1.12 (2021.1)"),
-					(false));
+			((EntityPlayer) entity).sendStatusMessage(
+					new TextComponentString("[StomtCraftPlus \uFFFD\u037B\uFFFD\uFFFD\u02F2\uFFFD]\uFFFD\u6C7E 1.12 (2021.1)"), (false));
 		}
 	}
 }
