@@ -1,0 +1,7 @@
+{
+  "parent": "stomtcraftplus:custom/shouhutong",
+  "textures": {
+    "back": "stomtcraftplus:blocks/one_way_ticket_back",
+    "front": "stomtcraftplus:blocks/one_way_ticket_front"
+  }
+}

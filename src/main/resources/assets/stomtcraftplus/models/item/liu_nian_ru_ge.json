@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stomtcraftplus:items/liu_nian_ru_ge"
+  }
+}
