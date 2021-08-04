@@ -44,7 +44,7 @@ public class BlockRailwayTransitLogo extends ElementsStomtcraftplusMod.ModElemen
 			setSoundType(SoundType.STONE);
 			setHardness(1F);
 			setResistance(10F);
-			setLightLevel(0.466666666667F);
+			setLightLevel(0.5F);
 			setLightOpacity(255);
 			setCreativeTab(TabMetroStationBlock.tab);
 		}

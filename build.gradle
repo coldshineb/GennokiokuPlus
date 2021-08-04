@@ -1,61 +1,43 @@
 buildscript {
     repositories {
-        maven { url = 'https://maven.minecraftforge.net' }
-        mavenCentral()
+        jcenter()
+        maven { url = "http://files.minecraftforge.net/maven" }
     }
     dependencies {
-        classpath 'net.minecraftforge.gradle:ForgeGradle:3.+'
+        classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
     }
 }
-        
-apply plugin: 'net.minecraftforge.gradle'
-apply plugin: 'eclipse'
+apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "2021.2"
 group = "world.stomt.craft"
 archivesBaseName = "StomtCraftPlus"
 
-sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
+sourceCompatibility = targetCompatibility = '1.8'
+compileJava {
+    sourceCompatibility = targetCompatibility = '1.8'
+}
 
 minecraft {
-	mappings channel: 'snapshot', version: '20171003-1.12'
+    version = '1.12.2-14.23.5.2768'
+    runDir = 'run'
+    mappings = 'snapshot_20171003'
+}
 
-    runs {
-        client {
-            workingDirectory project.file('run')
-
-            property 'forge.logging.markers', 'REGISTRIES'
-            property 'forge.logging.console.level', 'debug'
-
-            mods {
-                examplemod {
-                    source sourceSets.main
-                }
-            }
-        }
-
-        server {
-            workingDirectory project.file('run')
-
-            property 'forge.logging.markers', 'REGISTRIES'
-            property 'forge.logging.console.level', 'debug'
-
-            mods {
-                examplemod {
-                    source sourceSets.main
-                }
-            }
-        }
+processResources {
+    inputs.property "version", project.version
+    inputs.property "mcversion", project.minecraft.version
+    from(sourceSets.main.resources.srcDirs) {
+        include 'mcmod.info'
+        expand 'version': project.version, 'mcversion': project.minecraft.version
+    }
+    from(sourceSets.main.resources.srcDirs) {
+        exclude 'mcmod.info'
     }
 }
 
-sourceSets {
-    main { output.resourcesDir = output.classesDir }
-}
-
-dependencies {
-    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2855'
-}
+runClient.outputs.upToDateWhen { false }
+runServer.outputs.upToDateWhen { false }
 
 apply from: 'mcreator.gradle'
 

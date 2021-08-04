@@ -60,7 +60,7 @@ public class BlockRoadBusLane extends ElementsStomtcraftplusMod.ModElement {
 
 		@Override
 		public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
-			return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 0, 16, 12, 16));
+			return new AxisAlignedBB(0D, 0D, 0D, 1D, 0.75D, 1D);
 		}
 
 		@Override

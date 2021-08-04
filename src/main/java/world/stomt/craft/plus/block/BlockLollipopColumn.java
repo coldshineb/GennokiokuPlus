@@ -60,7 +60,7 @@ public class BlockLollipopColumn extends ElementsStomtcraftplusMod.ModElement {
 
 		@Override
 		public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
-			return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(6, 0, 6, 10, 16, 10));
+			return new AxisAlignedBB(0.375D, 0D, 0.375D, 0.625D, 1D, 0.625D);
 		}
 
 		@Override

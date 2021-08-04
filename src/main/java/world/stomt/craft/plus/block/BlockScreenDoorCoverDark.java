@@ -71,15 +71,17 @@ public class BlockScreenDoorCoverDark extends ElementsStomtcraftplusMod.ModEleme
 		@Override
 		public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
 			switch ((EnumFacing) state.getValue(BlockHorizontal.FACING)) {
+				case UP :
+				case DOWN :
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 11.008, -16, 16, 9.008));
+					return new AxisAlignedBB(1D, 0D, 0.688D, -1D, 1D, 0.563D);
 				case NORTH :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 4.992, 32, 16, 6.992));
-				case EAST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(11.008, 0, 0, 9.008, 16, 32));
+					return new AxisAlignedBB(0D, 0D, 0.312D, 2D, 1D, 0.437D);
 				case WEST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(4.992, 0, 16, 6.992, 16, -16));
+					return new AxisAlignedBB(0.312D, 0D, 1D, 0.437D, 1D, -1D);
+				case EAST :
+					return new AxisAlignedBB(0.688D, 0D, 0D, 0.563D, 1D, 2D);
 			}
 		}
 

@@ -71,15 +71,17 @@ public class BlockRoadBusLaneLu extends ElementsStomtcraftplusMod.ModElement {
 		@Override
 		public AxisAlignedBB getBoundingBox(IBlockState state, IBlockAccess source, BlockPos pos) {
 			switch ((EnumFacing) state.getValue(BlockHorizontal.FACING)) {
+				case UP :
+				case DOWN :
 				case SOUTH :
 				default :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 16, 0, 12, 0));
+					return new AxisAlignedBB(1D, 0D, 1D, 0D, 0.75D, 0D);
 				case NORTH :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 0, 16, 12, 16));
-				case EAST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(16, 0, 0, 0, 12, 16));
+					return new AxisAlignedBB(0D, 0D, 0D, 1D, 0.75D, 1D);
 				case WEST :
-					return new AxisAlignedBB(0, 0, 0, 0, 0, 0).union(new AxisAlignedBB(0, 0, 16, 16, 12, 0));
+					return new AxisAlignedBB(0D, 0D, 1D, 1D, 0.75D, 0D);
+				case EAST :
+					return new AxisAlignedBB(1D, 0D, 0D, 0D, 0.75D, 1D);
 			}
 		}
 
