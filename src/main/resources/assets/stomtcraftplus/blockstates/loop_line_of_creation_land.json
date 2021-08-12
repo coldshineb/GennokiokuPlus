@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:loop_line_of_creation_land"
+    "": {
+      "model": "stomtcraftplus:block/loop_line_of_creation_land"
     }
   }
 }

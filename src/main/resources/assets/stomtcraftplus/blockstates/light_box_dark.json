@@ -1,21 +1,18 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:light_box_dark"
-    },
     "facing=north": {
-      "model": "stomtcraftplus:light_box_dark"
+      "model": "stomtcraftplus:block/light_box_dark"
     },
     "facing=east": {
-      "model": "stomtcraftplus:light_box_dark",
+      "model": "stomtcraftplus:block/light_box_dark",
       "y": 90
     },
     "facing=south": {
-      "model": "stomtcraftplus:light_box_dark",
+      "model": "stomtcraftplus:block/light_box_dark",
       "y": 180
     },
     "facing=west": {
-      "model": "stomtcraftplus:light_box_dark",
+      "model": "stomtcraftplus:block/light_box_dark",
       "y": 270
     }
   }

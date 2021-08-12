@@ -180,311 +180,6 @@
       "registry_name": "platform_side_right_2"
     },
     {
-      "name": "Cmdscp",
-      "type": "command",
-      "sortid": 79,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stomtcraft_version"
-    },
-    {
-      "name": "CmdscpCommandExecuted",
-      "type": "procedure",
-      "sortid": 80,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "scp_command_executed",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
-      "name": "DiscAWalkInTheRain",
-      "type": "musicdisc",
-      "sortid": 31,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "a_walk_in_the_rain"
-    },
-    {
-      "name": "StomtCraftInverse",
-      "type": "item",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stomtcraft_inverse"
-    },
-    {
-      "name": "HeXiCorridor",
-      "type": "musicdisc",
-      "sortid": 32,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "he_xi_corridor"
-    },
-    {
-      "name": "Musife",
-      "type": "tab",
-      "sortid": 81,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "musife"
-    },
-    {
-      "name": "RenJianFengJing",
-      "type": "musicdisc",
-      "sortid": 33,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ren_jian_feng_jing"
-    },
-    {
-      "name": "DaShangHuaHuo",
-      "type": "musicdisc",
-      "sortid": 34,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "da_shang_hua_huo"
-    },
-    {
-      "name": "ForbiddenLove",
-      "type": "musicdisc",
-      "sortid": 35,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "forbidden_love"
-    },
-    {
-      "name": "DuJuanYuanWuQu",
-      "type": "musicdisc",
-      "sortid": 36,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "du_juan_yuan_wu_qu"
-    },
-    {
-      "name": "FeelingTheRain",
-      "type": "musicdisc",
-      "sortid": 37,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "feeling_the_rain"
-    },
-    {
-      "name": "YiXiaSiXiang",
-      "type": "musicdisc",
-      "sortid": 38,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yi_xia_si_xiang"
-    },
-    {
-      "name": "DancingButterflies",
-      "type": "musicdisc",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dancing_butterflies"
-    },
-    {
-      "name": "QiuZiMeiInTheAutumn",
-      "type": "musicdisc",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "qiu_zi_mei_in_the_autumn"
-    },
-    {
-      "name": "QiuZiMei",
-      "type": "musicdisc",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "qiu_zi_mei"
-    },
-    {
-      "name": "YanYuXingZhou",
-      "type": "musicdisc",
-      "sortid": 42,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yan_yu_xing_zhou"
-    },
-    {
-      "name": "PositiveOutlook",
-      "type": "musicdisc",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "positive_outlook"
-    },
-    {
-      "name": "DreamItPossible",
-      "type": "musicdisc",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dream_it_possible"
-    },
-    {
-      "name": "WenKoeteimasukapuRanosheng",
-      "type": "musicdisc",
-      "sortid": 45,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "wen_koeteimasukapu_ranosheng"
-    },
-    {
-      "name": "FanHuaChangBian",
-      "type": "musicdisc",
-      "sortid": 46,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "fan_hua_chang_bian"
-    },
-    {
-      "name": "JinLingYao",
-      "type": "musicdisc",
-      "sortid": 47,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "jin_ling_yao"
-    },
-    {
-      "name": "HuanQin",
-      "type": "musicdisc",
-      "sortid": 48,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "huan_qin"
-    },
-    {
-      "name": "LiuNianRuGe",
-      "type": "musicdisc",
-      "sortid": 49,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "liu_nian_ru_ge"
-    },
-    {
-      "name": "GouZhiQiShi",
-      "type": "musicdisc",
-      "sortid": 50,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gou_zhi_qi_shi"
-    },
-    {
-      "name": "HuXinTingKanXue",
-      "type": "musicdisc",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "hu_xin_ting_kan_xue"
-    },
-    {
-      "name": "ShengCunZaiMaoXian",
-      "type": "musicdisc",
-      "sortid": 52,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sheng_cun_zai_mao_xian"
-    },
-    {
-      "name": "SuoNiYaSi",
-      "type": "musicdisc",
-      "sortid": 53,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "suo_ni_ya_si"
-    },
-    {
-      "name": "EndDragonSurvive1",
-      "type": "musicdisc",
-      "sortid": 54,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "end_dragon_survive_1"
-    },
-    {
-      "name": "WithAnOrchid",
-      "type": "musicdisc",
-      "sortid": 55,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "with_an_orchid"
-    },
-    {
-      "name": "ItumoheDuDemo",
-      "type": "musicdisc",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "itumohe_du_demo"
-    },
-    {
-      "name": "TunajueXxing",
-      "type": "musicdisc",
-      "sortid": 57,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "tunajue_xing"
-    },
-    {
-      "name": "RoadObliqueArrow",
-      "type": "block",
-      "sortid": 59,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_oblique_arrow"
-    },
-    {
-      "name": "RoadExpanded",
-      "type": "tab",
-      "sortid": 82,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_expanded"
-    },
-    {
       "name": "LightBoxDark",
       "type": "block",
       "sortid": 21,
@@ -627,568 +322,115 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "one_way_ticket"
-    },
-    {
-      "name": "YiFanXing",
-      "type": "musicdisc",
-      "sortid": 58,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yi_fan_xing"
-    },
-    {
-      "name": "RoadPed",
-      "type": "block",
-      "sortid": 60,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_ped"
-    },
-    {
-      "name": "RoadBusLaneZhuan",
-      "type": "block",
-      "sortid": 64,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane_zhuan"
-    },
-    {
-      "name": "RoadBusLaneYong",
-      "type": "block",
-      "sortid": 65,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane_yong"
-    },
-    {
-      "name": "RoadBusLaneTime",
-      "type": "block",
-      "sortid": 67,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane_time"
-    },
-    {
-      "name": "RoadBusLaneLu",
-      "type": "block",
-      "sortid": 66,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane_lu"
-    },
-    {
-      "name": "RoadBusLaneJiao",
-      "type": "block",
-      "sortid": 63,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane_jiao"
-    },
-    {
-      "name": "RoadBusLaneGong",
-      "type": "block",
-      "sortid": 62,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane_gong"
-    },
-    {
-      "name": "RoadBusLane",
-      "type": "block",
-      "sortid": 61,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_lane"
-    },
-    {
-      "name": "RoadRoadObliqueBus",
-      "type": "block",
-      "sortid": 68,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_road_oblique_bus"
-    },
-    {
-      "name": "RoadRoadBus",
-      "type": "block",
-      "sortid": 70,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_road_bus"
-    },
-    {
-      "name": "RoadBusRoad",
-      "type": "block",
-      "sortid": 71,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_road"
-    },
-    {
-      "name": "RoadBusObliqueRoad",
-      "type": "block",
-      "sortid": 69,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "road_bus_oblique_road"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [
-    {
-      "name": "a_walk_in_the_rain",
-      "files": [
-        "yanni_-_a_walk_in_the_rain"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "he_xi_corridor",
-      "files": [
-        "yanni_-_he_xi_zou_lang_zhi_meng_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "ren_jian_feng_jing",
-      "files": [
-        "wang_xiang__-_ren_jian_feng_jing_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "feeling_the_rain",
-      "files": [
-        "moreanp_-_feeling_the_rain"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "qiu_zi_mei_nonakuqing_ni_in_the_autumn_sky",
-      "files": [
-        "banbansi_-_qiu_zi_mei_nonakuqing_ni_in_the_autumn_sky"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "du_juan_yuan_wu_qu",
-      "files": [
-        "johan_emanuel_jonasson_-_du_juan_yuan_wu_qu_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "yi_xia_si_xiang",
-      "files": [
-        "moreanp_-_yi_xia_si_xiang_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "dancing_butterflies",
-      "files": [
-        "the_new_asia_ensemblepm_artist_sessions_project_-_dancing_butterflies"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "qiu_zi_mei_nonakuqing_ni",
-      "files": [
-        "banbansi_-_qiu_zi_mei_nonakuqing_ni"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "yan_yu_xing_zhou",
-      "files": [
-        "si_nan__-_yan_yu_xing_zhou_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "forbidden_love",
-      "files": [
-        "forbidden_love"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "positive_outlook",
-      "files": [
-        "david_hoffner_-_positive_outlook"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "da_shang_hua_huo",
-      "files": [
-        "daoko_dawoko___mi_jin_xuan_shi__yonedu_kensi_-_da_shang_hua_huo_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "dream_it_possible",
-      "files": [
-        "delacey_-_dream_it_possible"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "jin_ling_yao",
-      "files": [
-        "guo_feng_tang_yin_lin__-_jin_ling_yao_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "fan_hua_chang_bian_luo",
-      "files": [
-        "uruutluo_tian_yi__-_fan_hua_chang_bian_coverle_zheng_ling_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "huan_qin",
-      "files": [
-        "lin_hai__-_huan_qin_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "liu_nian_ru_ge",
-      "files": [
-        "liu_nian_ru_ge_2020bai_nian_ji_dan_pin___-_1.liu_nian_ru_ge_av78978783p1_01"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "gou_zhi_qi_shi",
-      "files": [
-        "luo_tian_yi_ilem_-_gou_zhi_qi_shi_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "hu_xin_ting_kan_xue",
-      "files": [
-        "luo_tian_yi_le_zheng_ling__-_hu_xin_ting_kan_xue_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "sheng_cun_zai_mao_xian",
-      "files": [
-        "qiu_feng_sheng_cun_zai_mou_xian_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "suo_ni_ya_si_zhan_dou_shi",
-      "files": [
-        "qiu_feng_suo_ni_ya_si_zhan_dou_shi_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "with_an_orchid",
-      "files": [
-        "ya_ni__-_with_an_orchid"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "end_dragon_survive_1",
-      "files": [
-        "wu_qiu_feng_zhong_jie_long_sheng_cun_bgm1"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "itumohe_du_demo",
-      "files": [
-        "zong_ci_lang__-_itumohe_du_demo"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "tunajue_xing",
-      "files": [
-        "zuo_qiao_jun_yan__-_tunajue_xing_"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "wen_koeteimasukapu_ranosheng",
-      "files": [
-        "macsv_-_wen_koeteimasukapu_ranosheng_ga"
-      ],
-      "category": "music"
-    },
-    {
-      "name": "yi_fan_xing",
-      "files": [
-        "tainakacai_zhi__-__fan_xing_"
-      ],
-      "category": "music"
-    }
-  ],
+  "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.basalt.name": "Basalt",
-      "itemGroup.tabroad_expanded": "StomtCraft | Road Expanded",
-      "tile.line7.name": "Line 7",
-      "item.he_xi_corridor.name": "He Xi Corridor - Yanni ",
-      "item.yi_xia_si_xiang.name": "Yi Xia Si Xiang - MoreanP",
-      "item.dancing_butterflies.name": "Dancing Butterflies - The New Asia Ensemble",
-      "tile.road_bus_lane_zhuan.name": "Road Bus Lane (Zhuan)",
-      "tile.platform_side_right_2.name": "Platform Side Right 2",
-      "item.record.hu_xin_ting_kan_xue.desc": "Hu Xin Ting Kan Xue - Luo Tianyi,Yue Zhengliling",
-      "item.record.he_xi_corridor.desc": "He Xi Corridor - Yanni ",
-      "itemGroup.tabmetro_line": "StomtCraft | Metro Line",
-      "item.positive_outlook.name": "Positive Outlook - David Hoffner",
-      "item.record.yi_fan_xing.desc": "一番星 - タイナカ彩智",
-      "item.da_shang_hua_huo.name": "打ち上げ花火 - ダヲコ \u0026 よねづ けんし",
-      "tile.line9.name": "Line 9",
-      "tile.line6.name": "Line 6",
-      "tile.light_box_light.name": "Light Box Light",
-      "item.one_way_ticket.name": "One Way Ticket",
-      "item.record.end_dragon_survive_1.desc": "End Dragon Survive 1",
-      "item.record.tunajue_xing.desc": "ツナ覚醒 - 佐橋俊彦",
-      "tile.road_bus_lane_time.name": "Road Bus Lane Time",
-      "item.record.yan_yu_xing_zhou.desc": "Yan Yu Xing Zhou - Si Nan",
-      "item.jin_ling_yao.name": "Jin Ling Yao - Yin Lin",
-      "item.hu_xin_ting_kan_xue.name": "Hu Xin Ting Kan Xue - Luo Tianyi,Yue Zhengliling",
-      "tile.screen_door_cover_dark_3.name": "Screen Door Cover Dark 3\u0027",
-      "item.shouhutong.name": "Shouhu Tong",
-      "item.record.qiu_zi_mei_in_the_autumn.desc": "秋姉妹のなく頃に in the autumn sky - ばんばんしー",
-      "item.record.huan_qin.desc": "Huan Qin - Lin Hai",
-      "tile.road_bus_lane_yong.name": "Road Bus Lane (Yong)",
-      "item.record.a_walk_in_the_rain.desc": "A Walk In The Rain - Yanni",
-      "item.record.fan_hua_chang_bian.desc": "Fan Hua Chang Bian - Luo Tianyi",
-      "tile.platform_side_left_1.name": "Platform Side Left 1",
-      "tile.road_road_oblique_bus.name": "Road Road Bus Oblique",
-      "item.record.wen_koeteimasukapu_ranosheng.desc": "聞こえていますか僕らの声が… - macsv",
-      "item.ren_jian_feng_jing.name": "Ren Jian Feng Jing - Wang Xiang",
-      "item.record.sheng_cun_zai_mao_xian.desc": "Sheng Cun Zai Mao Xian ",
-      "tile.road_road_bus.name": "Road Road Bus",
-      "item.record.suo_ni_ya_si.desc": "Suo Ni Ya Si Zhan Dou Shi",
-      "tile.dirt_way_grey.name": "Grey Dirt Way",
-      "item.record.dancing_butterflies.desc": "Dancing Butterflies - The New Asia Ensemble",
-      "item.record.gou_zhi_qi_shi.desc": "Gou Zhi Qi Shi - Luo Tianyi",
-      "tile.road_oblique_arrow.name": "Road Oblique Arrow",
-      "tile.road_bus_lane.name": "Road Bus Lane",
-      "tile.line2.name": "Line 2",
-      "tile.line5.name": "Line 5",
-      "item.gou_zhi_qi_shi.name": "Gou Zhi Qi Shi - Luo Tianyi",
-      "tile.line8.name": "Line 8",
-      "item.wen_koeteimasukapu_ranosheng.name": "聞こえていますか僕らの声が… - macsv",
-      "item.record.jin_ling_yao.desc": "Jin Ling Yao - Yin Lin",
-      "item.railway_transit.name": "Railway Transit Logo",
-      "tile.loop_line_of_creation_land.name": "Loop line of Creation Land",
-      "tile.interplanetary_metro.name": "Interplanetary Metro",
-      "tile.road_bus_lane_gong.name": "Road Bus Lane (Gong)",
-      "item.stomtcraft_inverse.name": "Stomt Craft Logo(Inverse)",
-      "tile.platform_block.name": "Platform Block",
-      "item.with_an_orchid.name": "With An Orchid - Yanni",
-      "item.du_juan_yuan_wu_qu.name": "Du Juan Yuan Wu Qu - Various Artists",
-      "tile.road_bus_lane_jiao.name": "Road Bus Lane (Jiao)",
-      "tile.line1.name": "Line 1",
-      "item.record.with_an_orchid.desc": "With An Orchid - Yanni",
+      "block.stomtcraftplus.line10": "Line 10",
+      "item.stomtcraftplus.stomtcraft": "Stomt Craft Logo",
       "itemGroup.tabnature": "StomtCraft | Nature",
-      "item.record.itumohe_du_demo.desc": "いつも何度でも - 宗次郎",
-      "tile.line10.name": "Line 10",
+      "block.stomtcraftplus.screen_door_cover_dark_3": "Screen Door Cover Dark 3\u0027",
+      "block.stomtcraftplus.line4": "Line 4",
+      "block.stomtcraftplus.platform_side_right_2": "Platform Side Right 2",
+      "block.stomtcraftplus.line5": "Line 5",
+      "block.stomtcraftplus.platform_side_right_1": "Platform Side Right 1",
+      "block.stomtcraftplus.line6": "Line 6",
+      "block.stomtcraftplus.dirt_way": "Dirt Way",
+      "block.stomtcraftplus.line7": "Line 7",
       "itemGroup.tabmetro_station_block": "StomtCraft | Metro Station Block",
-      "item.record.da_shang_hua_huo.desc": "打ち上げ花火 - ダヲコ \u0026 よねづ けんし",
-      "item.record.feeling_the_rain.desc": "Feeling The Rain - MoreanP",
-      "tile.road_ped.name": "Road Ped",
-      "tile.light_box_dark.name": "Light Box Dark",
-      "tile.screen_door_cover_light_3.name": "Screen Door Cover Light 3\u0027",
-      "tile.basalt_circle.name": "Basalt Circle",
-      "item.record.qiu_zi_mei.desc": "秋姉妹のなく顷に - ばんばんしー",
-      "tile.basalt_brick.name": "Basalt Brick",
-      "tile.road_bus_oblique_road.name": "Road Bus Road Oblique",
-      "tile.line3.name": "Line 3",
-      "item.record.positive_outlook.desc": "Positive Outlook - David Hoffner",
-      "item.record.dream_it_possible.desc": "Dream It Possible - Delacey",
-      "item.dream_it_possible.name": "Dream It Possible - Delacey",
-      "item.forbidden_love.name": "Forbidden Love - Abel Korzeniowski",
-      "item.end_dragon_survive_1.name": "End Dragon Survive 1",
-      "tile.platform_side_left_2.name": "Platform Side Left 2",
-      "item.qiu_zi_mei.name": "秋姉妹のなく顷に - ばんばんしー",
-      "item.record.forbidden_love.desc": "Forbidden Love - Abel Korzeniowski",
-      "item.itumohe_du_demo.name": "いつも何度でも - 宗次郎",
-      "tile.road_bus_road.name": "Road Bus Road",
-      "item.stomtcraft.name": "Stomt Craft Logo",
-      "item.huan_qin.name": "Huan Qin - Lin Hai",
-      "itemGroup.tabmusife": "StomtCraft | Music Discs",
-      "tile.dirt_way.name": "Dirt Way",
-      "tile.line4.name": "Line 4",
-      "item.feeling_the_rain.name": "Feeling The Rain - MoreanP",
-      "tile.railway_transit_logo.name": "Railway Transit Logo",
-      "item.record.yi_xia_si_xiang.desc": "Yi Xia Si Xiang - MoreanP",
-      "tile.road_bus_lane_lu.name": "Road Bus Lane (Lu)",
-      "item.a_walk_in_the_rain.name": "A Walk In The Rain - Yanni",
-      "item.fan_hua_chang_bian.name": "Fan Hua Chang Bian - Luo Tianyi",
-      "item.suo_ni_ya_si.name": "Suo Ni Ya Si Zhan Dou Shi",
-      "tile.screen_door_cover_dark.name": "Screen Door Cover Dark 2\u0027",
-      "item.record.liu_nian_ru_ge.desc": "Liu Nian Ru Ge - Cang Qiong",
-      "item.yan_yu_xing_zhou.name": "Yan Yu Xing Zhou - Si Nan",
-      "item.qiu_zi_mei_in_the_autumn.name": "秋姉妹のなく頃に in the autumn sky - ばんばんしー",
-      "tile.platform_side_right_1.name": "Platform Side Right 1",
-      "item.sheng_cun_zai_mao_xian.name": "Sheng Cun Zai Mao Xian ",
-      "tile.screen_door_cover_light.name": "Screen Door Cover Light 2\u0027",
-      "item.record.du_juan_yuan_wu_qu.desc": "Du Juan Yuan Wu Qu - Various Artists",
-      "item.record.ren_jian_feng_jing.desc": "Ren Jian Feng Jing - Wang Xiang",
-      "item.tunajue_xing.name": "ツナ覚醒 - 佐橋俊彦",
-      "tile.lollipop_column.name": "Lollipop Column",
-      "item.liu_nian_ru_ge.name": "Liu Nian Ru Ge - Cang Qiong",
-      "item.yi_fan_xing.name": "一番星 - タイナカ彩智"
+      "itemGroup.tabmetro_line": "StomtCraft | Metro Line",
+      "block.stomtcraftplus.line8": "Line 8",
+      "block.stomtcraftplus.line9": "Line 9",
+      "block.stomtcraftplus.basalt_circle": "Basalt Circle",
+      "block.stomtcraftplus.screen_door_cover_light_3": "Screen Door Cover Light 3\u0027",
+      "block.stomtcraftplus.basalt_brick": "Basalt Brick",
+      "block.stomtcraftplus.screen_door_cover_light": "Screen Door Cover Light 2\u0027",
+      "block.stomtcraftplus.line1": "Line 1",
+      "block.stomtcraftplus.line2": "Line 2",
+      "block.stomtcraftplus.line3": "Line 3",
+      "block.stomtcraftplus.loop_line_of_creation_land": "Loop line of Creation Land",
+      "block.stomtcraftplus.railway_transit_logo": "Railway Transit Logo",
+      "block.stomtcraftplus.dirt_way_grey": "Grey Dirt Way",
+      "block.stomtcraftplus.light_box_dark": "Light Box Dark",
+      "item.stomtcraftplus.railway_transit": "Railway Transit Logo",
+      "block.stomtcraftplus.platform_side_left_2": "Platform Side Left 2",
+      "block.stomtcraftplus.platform_side_left_1": "Platform Side Left 1",
+      "block.stomtcraftplus.interplanetary_metro": "Interplanetary Metro",
+      "item.stomtcraftplus.one_way_ticket": "One Way Ticket",
+      "block.stomtcraftplus.screen_door_cover_dark": "Screen Door Cover Dark 2\u0027",
+      "block.stomtcraftplus.light_box_light": "Light Box Light",
+      "block.stomtcraftplus.platform_block": "Platform Block",
+      "block.stomtcraftplus.lollipop_column": "Lollipop Column",
+      "item.stomtcraftplus.shouhutong": "Shouhu Tong",
+      "block.stomtcraftplus.basalt": "Basalt"
     },
     "zh_cn": {
-      "tile.basalt.name": "玄武岩",
-      "itemGroup.tabroad_expanded": "守护工艺 | 道路扩展",
-      "item.he_xi_corridor.name": "河西走廊之梦 - Yanni ",
-      "tile.line7.name": "7号线",
-      "item.yi_xia_si_xiang.name": "忆夏思乡 - MoreanP",
-      "item.dancing_butterflies.name": "Dancing Butterflies - The New Asia Ensemble",
-      "tile.road_bus_lane_zhuan.name": "公交车道 (专)",
-      "tile.platform_side_right_2.name": "站台边缘方块 (右2)",
-      "item.record.hu_xin_ting_kan_xue.desc": "湖心亭看雪 - 洛天依,乐正绫",
-      "item.record.he_xi_corridor.desc": "河西走廊之梦 - Yanni ",
-      "itemGroup.tabmetro_line": "守护工艺 | 轨道交通颜色",
-      "item.positive_outlook.name": "David Hoffner - Positive Outlook",
-      "item.record.yi_fan_xing.desc": "一番星 - タイナカ彩智",
-      "item.da_shang_hua_huo.name": "打ち上げ花火 - ダヲコ \u0026 よねづ けんし",
-      "tile.line9.name": "9号线",
-      "tile.line6.name": "6号线",
-      "tile.light_box_light.name": "浅色灯箱",
-      "item.one_way_ticket.name": "单程票",
-      "item.record.end_dragon_survive_1.desc": "终界龙生存1",
-      "item.record.tunajue_xing.desc": "ツナ覚醒 - 佐橋俊彦",
-      "tile.road_bus_lane_time.name": "公交车道时刻",
-      "item.record.yan_yu_xing_zhou.desc": "烟雨行舟 - 司南",
-      "item.jin_ling_yao.name": "金陵谣 - 银临",
-      "item.hu_xin_ting_kan_xue.name": "湖心亭看雪 - 洛天依,乐正绫",
-      "tile.screen_door_cover_dark_3.name": "深色屏蔽门盖板 3\u0027",
-      "item.shouhutong.name": "守护通",
-      "item.record.qiu_zi_mei_in_the_autumn.desc": "秋姉妹のなく顷に in the autumn sky - ばんばんしー ",
-      "item.record.huan_qin.desc": "欢沁 - 林海",
-      "tile.road_bus_lane_yong.name": "公交车道 (用)",
-      "item.record.a_walk_in_the_rain.desc": "A Walk In The Rain - Yanni",
-      "item.record.fan_hua_chang_bian.desc": "湖心亭看雪 - 洛天依,乐正绫",
-      "tile.platform_side_left_1.name": "站台边缘方块 (左1)",
-      "tile.road_road_oblique_bus.name": "道路-斜线-公交车道",
-      "item.record.wen_koeteimasukapu_ranosheng.desc": "聞こえていますか僕らの声が… - macsv",
-      "item.ren_jian_feng_jing.name": "人间风景 - 忘乡",
-      "item.record.sheng_cun_zai_mao_xian.desc": "無-Mu",
-      "tile.road_road_bus.name": "道路-公交车道",
-      "item.record.suo_ni_ya_si.desc": "索尼亚斯战斗时",
-      "tile.dirt_way_grey.name": "灰土路",
-      "item.record.dancing_butterflies.desc": "Dancing Butterflies - The New Asia Ensemble",
-      "item.record.gou_zhi_qi_shi.desc": "勾指起誓 - 洛天依",
-      "tile.road_oblique_arrow.name": "斜箭头",
-      "tile.road_bus_lane.name": "公交车道",
-      "item.gou_zhi_qi_shi.name": "勾指起誓 - 洛天依",
-      "tile.line5.name": "5号线",
-      "tile.line2.name": "2号线",
-      "tile.line8.name": "8号线",
-      "item.wen_koeteimasukapu_ranosheng.name": "聞こえていますか僕らの声が… - macsv",
-      "item.record.jin_ling_yao.desc": "金陵谣 - 银临",
-      "item.railway_transit.name": "守护轨道交通图标",
-      "tile.interplanetary_metro.name": "星际轨道交通",
-      "tile.loop_line_of_creation_land.name": "创新港环线",
-      "tile.road_bus_lane_gong.name": "公交车道 (公)",
-      "item.stomtcraft_inverse.name": "守护工艺图标 (反向)",
-      "tile.platform_block.name": "站台方块",
-      "item.with_an_orchid.name": "With An Orchid - Yanni",
-      "item.du_juan_yuan_wu_qu.name": "杜鹃圆舞曲 - Various Artists",
-      "tile.road_bus_lane_jiao.name": "公交车道 (交)",
-      "tile.line1.name": "1号线",
-      "item.record.with_an_orchid.desc": "With An Orchid - Yanni",
+      "block.stomtcraftplus.line10": "10号线",
+      "item.stomtcraftplus.stomtcraft": "守护工艺图标",
       "itemGroup.tabnature": "守护工艺 | 自然",
-      "item.record.itumohe_du_demo.desc": "いつも何度でも - 宗次郎",
-      "tile.line10.name": "10号线",
-      "itemGroup.tabmetro_station_block": "守护工艺 | 地铁站设施方块",
-      "item.record.da_shang_hua_huo.desc": "打ち上げ花火 - ダヲコ \u0026 よねづ けんし",
-      "item.record.feeling_the_rain.desc": "Feeling The Rain - MoreanP",
-      "tile.road_ped.name": "车道",
-      "tile.light_box_dark.name": "深色灯箱",
-      "tile.screen_door_cover_light_3.name": "浅色屏蔽门盖板 3\u0027",
-      "tile.basalt_circle.name": "玄武岩立柱",
-      "item.record.qiu_zi_mei.desc": "秋姉妹のなく顷に - ばんばんしー",
-      "tile.basalt_brick.name": "玄武岩砖块",
-      "tile.road_bus_oblique_road.name": "公交车道-斜箭头-道路",
-      "tile.line3.name": "3号线",
-      "item.record.positive_outlook.desc": "David Hoffner - Positive Outlook",
-      "item.record.dream_it_possible.desc": "Dream It Possible - Delacey",
-      "item.dream_it_possible.name": "Dream It Possible - Delacey",
-      "item.forbidden_love.name": "Forbidden Love - Abel Korzeniowski",
-      "item.end_dragon_survive_1.name": "终界龙生存1",
-      "tile.platform_side_left_2.name": "站台边缘方块 (左2)",
-      "item.qiu_zi_mei.name": "秋姉妹のなく顷に - ばんばんしー",
-      "item.record.forbidden_love.desc": "Forbidden Love - Abel Korzeniowski",
-      "item.itumohe_du_demo.name": "いつも何度でも - 宗次郎",
-      "tile.road_bus_road.name": "公交车道-道路",
-      "item.stomtcraft.name": "守护工艺",
-      "item.huan_qin.name": "欢沁 - 林海",
-      "itemGroup.tabmusife": "守护工艺 | 音乐唱片",
-      "tile.dirt_way.name": "土路",
-      "tile.line4.name": "4号线",
-      "item.feeling_the_rain.name": "Feeling The Rain - MoreanP",
-      "tile.railway_transit_logo.name": "轨道交通标志方块",
-      "item.record.yi_xia_si_xiang.desc": "忆夏思乡 - MoreanP",
-      "tile.road_bus_lane_lu.name": "公交车道 (路)",
-      "item.a_walk_in_the_rain.name": "A Walk In The Rain - Yanni",
-      "item.fan_hua_chang_bian.name": "繁华唱遍 - 洛天依",
-      "item.suo_ni_ya_si.name": "索尼亚斯战斗时",
-      "tile.screen_door_cover_dark.name": "深色屏蔽门盖板 2\u0027",
-      "item.record.liu_nian_ru_ge.desc": "流年如歌 - 苍穹",
-      "item.yan_yu_xing_zhou.name": "烟雨行舟 - 司南",
-      "item.qiu_zi_mei_in_the_autumn.name": "秋姉妹のなく顷に in the autumn sky - ばんばんしー ",
-      "tile.platform_side_right_1.name": "站台边缘方块 (右1)",
-      "item.sheng_cun_zai_mao_xian.name": "無-Mu",
-      "tile.screen_door_cover_light.name": "浅色屏蔽门盖板 2\u0027",
-      "item.record.du_juan_yuan_wu_qu.desc": "杜鹃圆舞曲 - Various Artists",
-      "item.record.ren_jian_feng_jing.desc": "人间风景 - 忘乡",
-      "item.tunajue_xing.name": "ツナ覚醒 - 佐橋俊彦",
-      "tile.lollipop_column.name": "棒棒糖立柱",
-      "item.liu_nian_ru_ge.name": "流年如歌 - 苍穹",
-      "item.yi_fan_xing.name": "一番星 - タイナカ彩智"
+      "block.stomtcraftplus.screen_door_cover_dark_3": "屏蔽门盖板（暗）3‘",
+      "block.stomtcraftplus.line4": "4号线",
+      "block.stomtcraftplus.platform_side_right_2": "站台边缘（右2）",
+      "block.stomtcraftplus.line5": "5号线",
+      "block.stomtcraftplus.platform_side_right_1": "站台边缘（右1）",
+      "block.stomtcraftplus.line6": "6号线",
+      "block.stomtcraftplus.dirt_way": "土路",
+      "block.stomtcraftplus.line7": "7号线",
+      "itemGroup.tabmetro_station_block": "守护工艺 | 轨道交通设施",
+      "itemGroup.tabmetro_line": "守护工艺 | 轨道交通色块",
+      "block.stomtcraftplus.line8": "8号线",
+      "block.stomtcraftplus.line9": "9号线",
+      "block.stomtcraftplus.basalt_circle": "玄武岩立柱",
+      "block.stomtcraftplus.screen_door_cover_light_3": "屏蔽门盖板（亮）3‘",
+      "block.stomtcraftplus.basalt_brick": "玄武岩砖块",
+      "block.stomtcraftplus.screen_door_cover_light": "屏蔽门盖板（亮）2‘",
+      "block.stomtcraftplus.line1": "1号线",
+      "block.stomtcraftplus.line2": "2号线",
+      "block.stomtcraftplus.line3": "3号线",
+      "block.stomtcraftplus.loop_line_of_creation_land": "创新港环线",
+      "block.stomtcraftplus.railway_transit_logo": "轨道交通图标方块",
+      "block.stomtcraftplus.dirt_way_grey": "灰土路",
+      "block.stomtcraftplus.light_box_dark": "灯箱（暗）",
+      "item.stomtcraftplus.railway_transit": "轨道交通图标",
+      "block.stomtcraftplus.platform_side_left_2": "站台边缘（左2）",
+      "block.stomtcraftplus.platform_side_left_1": "站台边缘（左1）",
+      "block.stomtcraftplus.interplanetary_metro": "星际轨道交通",
+      "item.stomtcraftplus.one_way_ticket": "单程票",
+      "block.stomtcraftplus.screen_door_cover_dark": "屏蔽门盖板（暗）2‘",
+      "block.stomtcraftplus.light_box_light": "灯箱（亮）",
+      "block.stomtcraftplus.platform_block": "站台方块",
+      "block.stomtcraftplus.lollipop_column": "棒棒糖立柱",
+      "item.stomtcraftplus.shouhutong": "守护通",
+      "block.stomtcraftplus.basalt": "玄武岩"
     }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
   },
   "workspaceSettings": {
     "modid": "stomtcraftplus",
     "modName": "StomtCraftPlus",
-    "version": "2021.2",
+    "version": "2021.3",
     "description": "StomtCraft Plus for StomtCraft server ONLY.",
     "author": "Coldshine",
     "websiteURL": "https://craft.stomt.world/",
+    "license": "Not specified",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "logo",
-    "requiredMods": [
-      "stomtcraftcore"
-    ],
+    "requiredMods": [],
     "dependencies": [],
-    "dependants": [],
+    "dependants": [
+      "stomtcraftplusxnscp"
+    ],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.12.2",
+    "currentGenerator": "forge-1.16.5",
     "credits": "StomtCraft",
     "modElementsPackage": "world.stomt.craft.plus",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000532312
+  "mcreatorVersion": 202100125117
 }

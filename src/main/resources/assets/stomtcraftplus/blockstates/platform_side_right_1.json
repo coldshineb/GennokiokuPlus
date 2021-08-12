@@ -1,21 +1,18 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:platform_side_right_1"
-    },
     "facing=north": {
-      "model": "stomtcraftplus:platform_side_right_1"
+      "model": "stomtcraftplus:block/platform_side_right_1"
     },
     "facing=east": {
-      "model": "stomtcraftplus:platform_side_right_1",
+      "model": "stomtcraftplus:block/platform_side_right_1",
       "y": 90
     },
     "facing=south": {
-      "model": "stomtcraftplus:platform_side_right_1",
+      "model": "stomtcraftplus:block/platform_side_right_1",
       "y": 180
     },
     "facing=west": {
-      "model": "stomtcraftplus:platform_side_right_1",
+      "model": "stomtcraftplus:block/platform_side_right_1",
       "y": 270
     }
   }

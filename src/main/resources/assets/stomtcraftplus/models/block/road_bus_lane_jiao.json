@@ -1,9 +1,0 @@
-{
-  "parent": "stomtcraftplus:custom/road",
-  "textures": {
-    "all": "stomtcraftplus:blocks/road_bus_lane_jiao",
-    "particle": "stomtcraftplus:blocks/road_bus_lane_jiao",
-    "0": "stomtcraftplus:blocks/road_bus_lane",
-    "1": "stomtcraftplus:blocks/road_bus_lane_jiao"
-  }
-}

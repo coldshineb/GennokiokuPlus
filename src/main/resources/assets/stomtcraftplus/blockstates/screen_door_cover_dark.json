@@ -1,21 +1,18 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:screen_door_cover_dark"
-    },
     "facing=north": {
-      "model": "stomtcraftplus:screen_door_cover_dark"
+      "model": "stomtcraftplus:block/screen_door_cover_dark"
     },
     "facing=east": {
-      "model": "stomtcraftplus:screen_door_cover_dark",
+      "model": "stomtcraftplus:block/screen_door_cover_dark",
       "y": 90
     },
     "facing=south": {
-      "model": "stomtcraftplus:screen_door_cover_dark",
+      "model": "stomtcraftplus:block/screen_door_cover_dark",
       "y": 180
     },
     "facing=west": {
-      "model": "stomtcraftplus:screen_door_cover_dark",
+      "model": "stomtcraftplus:block/screen_door_cover_dark",
       "y": 270
     }
   }

@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:platform_block"
+    "": {
+      "model": "stomtcraftplus:block/platform_block"
     }
   }
 }

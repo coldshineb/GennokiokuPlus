@@ -1,9 +1,0 @@
-{
-  "parent": "stomtcraftplus:custom/road",
-  "textures": {
-    "all": "stomtcraftplus:blocks/road_bus_lane",
-    "particle": "stomtcraftplus:blocks/road_bus_lane",
-    "0": "stomtcraftplus:blocks/road_bus_lane",
-    "1": "stomtcraftplus:blocks/road_bus_lane"
-  }
-}

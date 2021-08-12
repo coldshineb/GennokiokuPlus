@@ -1,0 +1,12 @@
+{
+  "item.wands.stone_wand": "石魔杖",
+  "item.wands.iron_wand": "铁魔杖",
+  "item.wands.diamond_wand": "钻石魔杖",
+  "item.wands.netherite_wand": "下界合金魔杖",
+  "item.wands.palette": "调色板",
+  "key.wands.wand_mode": "模式",
+  "key.wands.wand_orientation": "方向",
+  "key.wands.wand_invert": "反转",
+  "key.wands.wand_palette_mode": "调色板模式",
+  "category.wands": "魔杖"
+}

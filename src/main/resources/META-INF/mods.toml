@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Not specified"
+
+[[mods]]
+modId="stomtcraftplus"
+version="2021.3"
+displayName="StomtCraftPlus"
+credits="StomtCraft"
+displayURL="https://craft.stomt.world/"
+logoFile="logo.png"
+authors="Coldshine"
+description='''
+StomtCraft Plus for StomtCraft server ONLY.
+'''
+
+[[dependencies.stomtcraftplus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
+[[dependencies.stomtcraftplus]]
+    modId="stomtcraftplusxnscp"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"

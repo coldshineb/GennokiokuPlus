@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:basalt"
+    "": {
+      "model": "stomtcraftplus:block/basalt"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:interplanetary_metro"
+    "": {
+      "model": "stomtcraftplus:block/interplanetary_metro"
     }
   }
 }

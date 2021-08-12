@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:lollipop_column"
+    "": {
+      "model": "stomtcraftplus:block/lollipop_column"
     }
   }
 }

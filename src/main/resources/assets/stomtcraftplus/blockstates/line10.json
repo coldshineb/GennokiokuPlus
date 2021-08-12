@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:line10"
+    "": {
+      "model": "stomtcraftplus:block/line10"
     }
   }
 }

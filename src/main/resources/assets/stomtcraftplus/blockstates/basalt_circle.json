@@ -1,7 +1,7 @@
 {
   "variants": {
-    "normal": {
-      "model": "stomtcraftplus:basalt_circle"
+    "": {
+      "model": "stomtcraftplus:block/basalt_circle"
     }
   }
 }
