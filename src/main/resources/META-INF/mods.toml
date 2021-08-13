@@ -4,7 +4,7 @@ license="Not specified"
 
 [[mods]]
 modId="stomtcraftplus"
-version="2021.3"
+version="2021.4"
 displayName="StomtCraftPlus"
 credits="StomtCraft"
 displayURL="https://craft.stomt.world/"
@@ -26,6 +26,12 @@ StomtCraft Plus for StomtCraft server ONLY.
 
 [[dependencies.stomtcraftplus]]
     modId="stomtcraftplusxnscp"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.stomtcraftplus]]
+    modId="stomtcraftplusxdfroads"
     mandatory=false
     versionRange="[0,)"
     ordering="NONE"
