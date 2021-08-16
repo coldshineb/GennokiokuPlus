@@ -322,6 +322,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "one_way_ticket"
+    },
+    {
+      "name": "ScreenDoorLeft",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "screen_door_full_left"
+    },
+    {
+      "name": "ScreenDoorFullRight",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "screen_door_full_right"
     }
   ],
   "variable_elements": [],
@@ -351,6 +369,7 @@
       "block.stomtcraftplus.line2": "Line 2",
       "block.stomtcraftplus.line3": "Line 3",
       "block.stomtcraftplus.loop_line_of_creation_land": "Loop line of Creation Land",
+      "block.stomtcraftplus.screen_door_full_left": "Screen Door Full Left",
       "block.stomtcraftplus.railway_transit_logo": "Railway Transit Logo",
       "block.stomtcraftplus.dirt_way_grey": "Grey Dirt Way",
       "block.stomtcraftplus.light_box_dark": "Light Box Dark",
@@ -360,6 +379,7 @@
       "block.stomtcraftplus.interplanetary_metro": "Interplanetary Metro",
       "item.stomtcraftplus.one_way_ticket": "One Way Ticket",
       "block.stomtcraftplus.screen_door_cover_dark": "Screen Door Cover Dark 2\u0027",
+      "block.stomtcraftplus.screen_door_full_right": "Screen Door Full Right",
       "block.stomtcraftplus.light_box_light": "Light Box Light",
       "block.stomtcraftplus.platform_block": "Platform Block",
       "block.stomtcraftplus.lollipop_column": "Lollipop Column",
@@ -390,6 +410,7 @@
       "block.stomtcraftplus.line2": "2号线",
       "block.stomtcraftplus.line3": "3号线",
       "block.stomtcraftplus.loop_line_of_creation_land": "创新港环线",
+      "block.stomtcraftplus.screen_door_full_left": "全高屏蔽门（左）",
       "block.stomtcraftplus.railway_transit_logo": "轨道交通图标方块",
       "block.stomtcraftplus.dirt_way_grey": "灰土路",
       "block.stomtcraftplus.light_box_dark": "灯箱（暗）",
@@ -399,6 +420,7 @@
       "block.stomtcraftplus.interplanetary_metro": "星际轨道交通",
       "item.stomtcraftplus.one_way_ticket": "单程票",
       "block.stomtcraftplus.screen_door_cover_dark": "屏蔽门盖板（暗）2‘",
+      "block.stomtcraftplus.screen_door_full_right": "全高屏蔽门（右）",
       "block.stomtcraftplus.light_box_light": "灯箱（亮）",
       "block.stomtcraftplus.platform_block": "站台方块",
       "block.stomtcraftplus.lollipop_column": "棒棒糖立柱",
@@ -413,7 +435,7 @@
   "workspaceSettings": {
     "modid": "stomtcraftplus",
     "modName": "StomtCraftPlus",
-    "version": "2021.4",
+    "version": "2021.5",
     "description": "StomtCraft Plus for StomtCraft server ONLY.",
     "author": "Coldshine",
     "websiteURL": "https://craft.stomt.world/",

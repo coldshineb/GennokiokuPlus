@@ -1,0 +1,8 @@
+{
+  "parent": "stomtcraftplus:custom/screen_door_full_right",
+  "textures": {
+    "all": "stomtcraftplus:blocks/screen_door_full_right",
+    "particle": "stomtcraftplus:blocks/screen_door_full_right",
+    "0": "stomtcraftplus:blocks/screen_door_full_right"
+  }
+}

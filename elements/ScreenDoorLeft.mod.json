@@ -2,14 +2,14 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "screen_door_cover_2_dark",
+    "texture": "screen_door_full_left",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "screen_door_cover:dark",
+    "customModelName": "screen_door_full_left:default",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -23,16 +23,43 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
+        "mx": 1.0,
+        "my": 2.0,
+        "mz": 8.0,
+        "Mx": 16.0,
+        "My": 32.0,
+        "Mz": 9.0,
+        "subtract": false
+      },
+      {
         "mx": 0.0,
         "my": 0.0,
-        "mz": 6.0,
-        "Mx": 32.0,
-        "My": 16.0,
-        "Mz": 8.0,
+        "mz": 8.0,
+        "Mx": 1.0,
+        "My": 32.0,
+        "Mz": 9.0,
+        "subtract": false
+      },
+      {
+        "mx": 1.0,
+        "my": 0.0,
+        "mz": 8.0,
+        "Mx": 16.0,
+        "My": 2.0,
+        "Mz": 9.0,
+        "subtract": false
+      },
+      {
+        "mx": 16.0,
+        "my": 0.0,
+        "mz": 8.0,
+        "Mx": 17.0,
+        "My": 32.0,
+        "Mz": 9.0,
         "subtract": false
       }
     ],
-    "name": "Screen Door Cover Dark 2'",
+    "name": "Screen Door Full Left",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -52,7 +79,7 @@
     "canProvidePower": false,
     "lightOpacity": 0,
     "material": {
-      "value": "ROCK"
+      "value": "GLASS"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -72,7 +99,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "GLASS"
     },
     "luminance": 0,
     "unbreakable": false,

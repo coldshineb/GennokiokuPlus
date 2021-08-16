@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "screen_door_cover_face_light",
+    "texture": "screen_door_cover_2_light",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -25,10 +25,10 @@
       {
         "mx": 0.0,
         "my": 0.0,
-        "mz": 4.992,
+        "mz": 6.0,
         "Mx": 32.0,
         "My": 16.0,
-        "Mz": 6.992,
+        "Mz": 8.0,
         "subtract": false
       }
     ],

@@ -76,13 +76,13 @@ public class ScreenDoorCoverDarkBlock extends StomtcraftplusModElements.ModEleme
 			switch ((Direction) state.get(FACING)) {
 				case SOUTH :
 				default :
-					return VoxelShapes.or(makeCuboidShape(16, 0, 11.008, -16, 16, 9.008)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(16, 0, 10, -16, 16, 8)).withOffset(offset.x, offset.y, offset.z);
 				case NORTH :
-					return VoxelShapes.or(makeCuboidShape(0, 0, 4.992, 32, 16, 6.992)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(0, 0, 6, 32, 16, 8)).withOffset(offset.x, offset.y, offset.z);
 				case EAST :
-					return VoxelShapes.or(makeCuboidShape(11.008, 0, 0, 9.008, 16, 32)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(10, 0, 0, 8, 16, 32)).withOffset(offset.x, offset.y, offset.z);
 				case WEST :
-					return VoxelShapes.or(makeCuboidShape(4.992, 0, 16, 6.992, 16, -16)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(6, 0, 16, 8, 16, -16)).withOffset(offset.x, offset.y, offset.z);
 			}
 		}
 

@@ -37,11 +37,11 @@ import java.util.List;
 import java.util.Collections;
 
 @StomtcraftplusModElements.ModElement.Tag
-public class ScreenDoorCoverLightBlock extends StomtcraftplusModElements.ModElement {
-	@ObjectHolder("stomtcraftplus:screen_door_cover_light")
+public class ScreenDoorFullRightBlock extends StomtcraftplusModElements.ModElement {
+	@ObjectHolder("stomtcraftplus:screen_door_full_right")
 	public static final Block block = null;
-	public ScreenDoorCoverLightBlock(StomtcraftplusModElements instance) {
-		super(instance, 24);
+	public ScreenDoorFullRightBlock(StomtcraftplusModElements instance) {
+		super(instance, 85);
 	}
 
 	@Override
@@ -59,10 +59,10 @@ public class ScreenDoorCoverLightBlock extends StomtcraftplusModElements.ModElem
 	public static class CustomBlock extends Block {
 		public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).notSolid()
+			super(Block.Properties.create(Material.GLASS).sound(SoundType.GLASS).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).notSolid()
 					.setOpaque((bs, br, bp) -> false));
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
-			setRegistryName("screen_door_cover_light");
+			setRegistryName("screen_door_full_right");
 		}
 
 		@Override
@@ -76,13 +76,17 @@ public class ScreenDoorCoverLightBlock extends StomtcraftplusModElements.ModElem
 			switch ((Direction) state.get(FACING)) {
 				case SOUTH :
 				default :
-					return VoxelShapes.or(makeCuboidShape(16, 0, 10, -16, 16, 8)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(16, 2, 8, 1, 32, 7), makeCuboidShape(17, 0, 8, 16, 32, 7),
+							makeCuboidShape(16, 0, 8, 1, 2, 7), makeCuboidShape(1, 0, 8, 0, 32, 7)).withOffset(offset.x, offset.y, offset.z);
 				case NORTH :
-					return VoxelShapes.or(makeCuboidShape(0, 0, 6, 32, 16, 8)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(0, 2, 8, 15, 32, 9), makeCuboidShape(-1, 0, 8, 0, 32, 9),
+							makeCuboidShape(0, 0, 8, 15, 2, 9), makeCuboidShape(15, 0, 8, 16, 32, 9)).withOffset(offset.x, offset.y, offset.z);
 				case EAST :
-					return VoxelShapes.or(makeCuboidShape(10, 0, 0, 8, 16, 32)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(8, 2, 0, 7, 32, 15), makeCuboidShape(8, 0, -1, 7, 32, 0),
+							makeCuboidShape(8, 0, 0, 7, 2, 15), makeCuboidShape(8, 0, 15, 7, 32, 16)).withOffset(offset.x, offset.y, offset.z);
 				case WEST :
-					return VoxelShapes.or(makeCuboidShape(6, 0, 16, 8, 16, -16)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(8, 2, 16, 9, 32, 1), makeCuboidShape(8, 0, 17, 9, 32, 16),
+							makeCuboidShape(8, 0, 16, 9, 2, 1), makeCuboidShape(8, 0, 1, 9, 32, 0)).withOffset(offset.x, offset.y, offset.z);
 			}
 		}
 

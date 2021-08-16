@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stomtcraftplus:block/screen_door_full_left"
+    },
+    "facing=east": {
+      "model": "stomtcraftplus:block/screen_door_full_left",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stomtcraftplus:block/screen_door_full_left",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stomtcraftplus:block/screen_door_full_left",
+      "y": 270
+    }
+  }
+}

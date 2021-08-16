@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "screen_door_cover_face_dark",
+    "texture": "screen_door_cover_3_dark",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": true,
@@ -24,10 +25,10 @@
       {
         "mx": -16.0,
         "my": 0.0,
-        "mz": 4.992,
+        "mz": 6.0,
         "Mx": 32.0,
         "My": 16.0,
-        "Mz": 6.992,
+        "Mz": 8.0,
         "subtract": false
       }
     ],
