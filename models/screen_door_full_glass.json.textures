@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "screen_door_full_glass"
+      },
+      "name": "default"
+    },
+    "terminus": {
+      "map": {
+        "0": "screen_door_full_glass_terminus"
+      },
+      "name": "terminus"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "stomtcraftplus:custom/screen_door_full_glass",
+  "textures": {
+    "all": "stomtcraftplus:blocks/screen_door_full_glass_terminus",
+    "particle": "stomtcraftplus:blocks/screen_door_full_glass_terminus",
+    "0": "stomtcraftplus:blocks/screen_door_full_glass_terminus"
+  }
+}

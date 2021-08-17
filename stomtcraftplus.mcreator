@@ -340,6 +340,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "screen_door_full_right"
+    },
+    {
+      "name": "ScreenDoorFullGlass",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "screen_door_full_glass"
+    },
+    {
+      "name": "ScreenDoorFullGlassTerminus",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "screen_door_full_glass_terminus"
     }
   ],
   "variable_elements": [],
@@ -368,6 +386,7 @@
       "block.stomtcraftplus.line1": "Line 1",
       "block.stomtcraftplus.line2": "Line 2",
       "block.stomtcraftplus.line3": "Line 3",
+      "block.stomtcraftplus.screen_door_full_glass": "Screen Door Full Glass",
       "block.stomtcraftplus.loop_line_of_creation_land": "Loop line of Creation Land",
       "block.stomtcraftplus.screen_door_full_left": "Screen Door Full Left",
       "block.stomtcraftplus.railway_transit_logo": "Railway Transit Logo",
@@ -379,6 +398,7 @@
       "block.stomtcraftplus.interplanetary_metro": "Interplanetary Metro",
       "item.stomtcraftplus.one_way_ticket": "One Way Ticket",
       "block.stomtcraftplus.screen_door_cover_dark": "Screen Door Cover Dark 2\u0027",
+      "block.stomtcraftplus.screen_door_full_glass_terminus": "Screen Door Full Glass Terminus",
       "block.stomtcraftplus.screen_door_full_right": "Screen Door Full Right",
       "block.stomtcraftplus.light_box_light": "Light Box Light",
       "block.stomtcraftplus.platform_block": "Platform Block",
@@ -409,6 +429,7 @@
       "block.stomtcraftplus.line1": "1号线",
       "block.stomtcraftplus.line2": "2号线",
       "block.stomtcraftplus.line3": "3号线",
+      "block.stomtcraftplus.screen_door_full_glass": "全高站台门",
       "block.stomtcraftplus.loop_line_of_creation_land": "创新港环线",
       "block.stomtcraftplus.screen_door_full_left": "全高屏蔽门（左）",
       "block.stomtcraftplus.railway_transit_logo": "轨道交通图标方块",
@@ -420,6 +441,7 @@
       "block.stomtcraftplus.interplanetary_metro": "星际轨道交通",
       "item.stomtcraftplus.one_way_ticket": "单程票",
       "block.stomtcraftplus.screen_door_cover_dark": "屏蔽门盖板（暗）2‘",
+      "block.stomtcraftplus.screen_door_full_glass_terminus": "全高站台门（终点）",
       "block.stomtcraftplus.screen_door_full_right": "全高屏蔽门（右）",
       "block.stomtcraftplus.light_box_light": "灯箱（亮）",
       "block.stomtcraftplus.platform_block": "站台方块",
