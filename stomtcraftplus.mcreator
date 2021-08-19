@@ -457,7 +457,7 @@
   "workspaceSettings": {
     "modid": "stomtcraftplus",
     "modName": "StomtCraftPlus",
-    "version": "2021.5",
+    "version": "2021.5.1",
     "description": "StomtCraft Plus for StomtCraft server ONLY.",
     "author": "Coldshine",
     "websiteURL": "https://craft.stomt.world/",
@@ -468,8 +468,8 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [
-      " stomtcraftplusxdfroads",
-      "stomtcraftplusxnscp"
+      " stomtcraftplusxnscp",
+      "stomtcraftplusxdfroads"
     ],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
