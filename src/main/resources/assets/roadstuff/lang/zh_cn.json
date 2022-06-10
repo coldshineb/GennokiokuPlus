@@ -122,7 +122,7 @@
   "block.roadstuff.yellow_traffic_bollard": "黄色交通柱",
   "block.roadstuff.yellow_traffic_cone": "黄色交通锥",
   "item.roadstuff.paint_brush": "画笔",
-  "itemGroup.roadstuff_group": "守护工艺 | 道路",
+  "itemGroup.roadstuff_group": "Gennokioku | 道路",
   "roadstuff.gui.paintbrush.title": "画笔配置",
   "roadstuff.message.brush.gui.color": "颜色：",
   "roadstuff.message.brush.gui.eraser": "油漆橡皮擦",

@@ -4,14 +4,14 @@ license="Not specified"
 
 [[mods]]
 modId="stomtcraftplus"
-version="2021.5.1"
-displayName="StomtCraftPlus"
-credits="StomtCraft"
+version="2022.1"
+displayName="GennokiokuPlus"
+credits="Gennokioku"
 displayURL="https://craft.stomt.world/"
 logoFile="logo.png"
 authors="Coldshine"
 description='''
-StomtCraft Plus for StomtCraft server ONLY.
+GennokiokuPlus for Gennokioku server ONLY.
 '''
 
 [[dependencies.stomtcraftplus]]
@@ -24,15 +24,3 @@ StomtCraft Plus for StomtCraft server ONLY.
 
 
 
-[[dependencies.stomtcraftplus]]
-    modId=" stomtcraftplusxnscp"
-    mandatory=false
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
-[[dependencies.stomtcraftplus]]
-    modId="stomtcraftplusxdfroads"
-    mandatory=false
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"

@@ -6,6 +6,8 @@ import world.stomt.craft.plus.StomtcraftplusModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
 
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.BlockPos;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
@@ -35,6 +37,11 @@ public class DirtWayBlock extends StomtcraftplusModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.SAND).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 			setRegistryName("dirt_way");
+		}
+
+		@Override
+		public boolean propagatesSkylightDown(BlockState state, IBlockReader reader, BlockPos pos) {
+			return true;
 		}
 
 		@Override
