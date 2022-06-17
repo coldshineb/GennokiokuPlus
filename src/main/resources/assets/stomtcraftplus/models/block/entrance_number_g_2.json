@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stomtcraftplus:blocks/entrance_number_face",
+    "up": "stomtcraftplus:blocks/entrance_number_face",
+    "north": "stomtcraftplus:blocks/entrance_number_g2",
+    "east": "stomtcraftplus:blocks/entrance_number_g2",
+    "south": "stomtcraftplus:blocks/entrance_number_g2",
+    "west": "stomtcraftplus:blocks/entrance_number_g2",
+    "particle": "stomtcraftplus:blocks/entrance_number_face"
+  }
+}

@@ -10,7 +10,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = '2022.1-2.3'
+version = '2022.2-2.4'
 group = 'world.stomt.craft.plus'
 archivesBaseName = 'GennokiokuPlus'
 
