@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stomtcraftplus:blocks/line9",
+    "up": "stomtcraftplus:blocks/line9",
+    "north": "stomtcraftplus:blocks/line9",
+    "east": "stomtcraftplus:blocks/line9",
+    "south": "stomtcraftplus:blocks/line9",
+    "west": "stomtcraftplus:blocks/line9",
+    "particle": "stomtcraftplus:blocks/line9"
+  }
+}

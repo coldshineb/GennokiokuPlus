@@ -4,14 +4,14 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '4.1.+', changing: true
+        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
     }
 }
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = '2.3.2'
-group = 'world.stomt.craft.plus'
+version = '2.5'
+group = 'city.gennokioku'
 archivesBaseName = 'GennokiokuPlus'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8)
@@ -26,6 +26,11 @@ minecraft {
             property 'forge.logging.markers', 'REGISTRIES'
             property 'forge.logging.console.level', 'debug'
 
+            jvmArgs = [
+                    "--add-exports=java.base/sun.security.util=ALL-UNNAMED",
+                    "--add-opens=java.base/java.util.jar=ALL-UNNAMED"
+            ]
+
             mods {
                 examplemod {
                     source sourceSets.main
@@ -39,6 +44,11 @@ minecraft {
             property 'forge.logging.markers', 'REGISTRIES'
             property 'forge.logging.console.level', 'debug'
 
+            jvmArgs = [
+                    "--add-exports=java.base/sun.security.util=ALL-UNNAMED",
+                    "--add-opens=java.base/java.util.jar=ALL-UNNAMED"
+            ]
+
             mods {
                 examplemod {
                     source sourceSets.main
@@ -48,9 +58,22 @@ minecraft {
     }
 }
 
-dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.5-36.2.5'
+repositories {
+    // Put repositories for dependencies here
+    // ForgeGradle automatically adds the Forge maven and Maven Central for you
+
+    // If you have mod jar dependencies in ./libs, you can declare them as a repository like so:
+    // flatDir {
+    //     dir 'libs'
+    // }
+    maven { url "https://maven.scijava.org/content/repositories/public/" }
 }
 
-apply from: 'mcreator.gradle'
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.16.5-36.2.34'
+    implementation group: 'club.minnced', name: 'java-discord-rpc', version: '2.0.2'
+}
 
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8' // Use the UTF-8 charset for Java compilation
+}
