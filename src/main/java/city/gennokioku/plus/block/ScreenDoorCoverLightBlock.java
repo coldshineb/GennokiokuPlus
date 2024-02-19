@@ -38,7 +38,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class ScreenDoorCoverLightBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:screen_door_cover_light")
+	@ObjectHolder("gennokiokuplus:screen_door_cover_light")
 	public static final Block block = null;
 
 	public ScreenDoorCoverLightBlock(GennokiokuPlusElements instance) {

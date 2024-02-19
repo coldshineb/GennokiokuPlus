@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gennokiokuplus:block/screen_door_full_glass"
+    },
+    "facing=east": {
+      "model": "gennokiokuplus:block/screen_door_full_glass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gennokiokuplus:block/screen_door_full_glass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gennokiokuplus:block/screen_door_full_glass",
+      "y": 270
+    }
+  }
+}

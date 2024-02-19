@@ -38,7 +38,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class LightBoxDarkBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:light_box_dark")
+	@ObjectHolder("gennokiokuplus:light_box_dark")
 	public static final Block block = null;
 
 	public LightBoxDarkBlock(GennokiokuPlusElements instance) {

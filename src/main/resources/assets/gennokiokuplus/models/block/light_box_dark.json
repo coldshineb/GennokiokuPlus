@@ -1,0 +1,7 @@
+{
+  "parent": "gennokiokuplus:custom/light_box",
+  "textures": {
+    "all": "gennokiokuplus:blocks/light_box_dark",
+    "particle": "gennokiokuplus:blocks/light_box_dark"
+  }
+}

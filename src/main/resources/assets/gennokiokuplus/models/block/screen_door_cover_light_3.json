@@ -1,0 +1,8 @@
+{
+  "parent": "gennokiokuplus:custom/screen_door_cover_3",
+  "textures": {
+    "all": "gennokiokuplus:blocks/screen_door_cover_3_light",
+    "particle": "gennokiokuplus:blocks/screen_door_cover_3_light",
+    "0": "gennokiokuplus:blocks/screen_door_cover_3_light"
+  }
+}

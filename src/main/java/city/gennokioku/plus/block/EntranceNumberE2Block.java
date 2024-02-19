@@ -22,7 +22,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class EntranceNumberE2Block extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:entrance_number_e_2")
+	@ObjectHolder("gennokiokuplus:entrance_number_e_2")
 	public static final Block block = null;
 
 	public EntranceNumberE2Block(GennokiokuPlusElements instance) {

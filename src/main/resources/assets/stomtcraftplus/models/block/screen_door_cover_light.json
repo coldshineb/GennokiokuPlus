@@ -1,8 +1,0 @@
-{
-  "parent": "stomtcraftplus:custom/screen_door_cover",
-  "textures": {
-    "all": "stomtcraftplus:blocks/screen_door_cover_2_light",
-    "particle": "stomtcraftplus:blocks/screen_door_cover_2_light",
-    "0": "stomtcraftplus:blocks/screen_door_cover_2_light"
-  }
-}

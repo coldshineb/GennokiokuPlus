@@ -22,7 +22,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class RailwayTransitLogoBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:railway_transit_logo")
+	@ObjectHolder("gennokiokuplus:railway_transit_logo")
 	public static final Block block = null;
 
 	public RailwayTransitLogoBlock(GennokiokuPlusElements instance) {

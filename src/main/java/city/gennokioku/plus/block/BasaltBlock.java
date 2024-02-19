@@ -22,7 +22,7 @@ import city.gennokioku.plus.GennokiokuPlusElements;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class BasaltBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:basalt")
+	@ObjectHolder("gennokiokuplus:basalt")
 	public static final Block block = null;
 
 	public BasaltBlock(GennokiokuPlusElements instance) {

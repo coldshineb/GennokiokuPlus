@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "gennokiokuplus:items/platform_side_right_1"
+  }
+}

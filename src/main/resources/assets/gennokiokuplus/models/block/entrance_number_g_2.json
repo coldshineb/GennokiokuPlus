@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gennokiokuplus:blocks/entrance_number_face",
+    "up": "gennokiokuplus:blocks/entrance_number_face",
+    "north": "gennokiokuplus:blocks/entrance_number_g2",
+    "east": "gennokiokuplus:blocks/entrance_number_g2",
+    "south": "gennokiokuplus:blocks/entrance_number_g2",
+    "west": "gennokiokuplus:blocks/entrance_number_g2",
+    "particle": "gennokiokuplus:blocks/entrance_number_face"
+  }
+}

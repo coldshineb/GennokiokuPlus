@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gennokiokuplus:blocks/basalt_circle",
+    "up": "gennokiokuplus:blocks/basalt_circle",
+    "north": "gennokiokuplus:blocks/basalt_circle",
+    "east": "gennokiokuplus:blocks/basalt_circle",
+    "south": "gennokiokuplus:blocks/basalt_circle",
+    "west": "gennokiokuplus:blocks/basalt_circle",
+    "particle": "gennokiokuplus:blocks/basalt_circle"
+  }
+}

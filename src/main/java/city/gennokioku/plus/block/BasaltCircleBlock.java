@@ -22,7 +22,7 @@ import city.gennokioku.plus.itemgroup.NatureItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class BasaltCircleBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:basalt_circle")
+	@ObjectHolder("gennokiokuplus:basalt_circle")
 	public static final Block block = null;
 
 	public BasaltCircleBlock(GennokiokuPlusElements instance) {

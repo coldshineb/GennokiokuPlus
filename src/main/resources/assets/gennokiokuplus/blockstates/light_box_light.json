@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "gennokiokuplus:block/light_box_light"
+    },
+    "facing=east": {
+      "model": "gennokiokuplus:block/light_box_light",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "gennokiokuplus:block/light_box_light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "gennokiokuplus:block/light_box_light",
+      "y": 270
+    }
+  }
+}

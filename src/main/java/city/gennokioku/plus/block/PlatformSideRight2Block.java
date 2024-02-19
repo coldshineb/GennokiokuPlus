@@ -29,7 +29,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class PlatformSideRight2Block extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:platform_side_right_2")
+	@ObjectHolder("gennokiokuplus:platform_side_right_2")
 	public static final Block block = null;
 
 	public PlatformSideRight2Block(GennokiokuPlusElements instance) {

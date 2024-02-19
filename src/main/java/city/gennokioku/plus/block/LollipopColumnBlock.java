@@ -31,7 +31,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class LollipopColumnBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:lollipop_column")
+	@ObjectHolder("gennokiokuplus:lollipop_column")
 	public static final Block block = null;
 
 	public LollipopColumnBlock(GennokiokuPlusElements instance) {

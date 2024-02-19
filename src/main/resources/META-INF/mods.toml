@@ -3,7 +3,7 @@ loaderVersion="[36,)"
 license="Not specified"
 
 [[mods]]
-modId="stomtcraftplus"
+modId="gennokiokuplus"
 version="2.5"
 displayName="GennokiokuPlus"
 credits="Gennokioku"
@@ -14,7 +14,7 @@ description='''
 GennokiokuPlus for Gennokioku server ONLY.
 '''
 
-[[dependencies.stomtcraftplus]]
+[[dependencies.gennokiokuplus]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.5]"

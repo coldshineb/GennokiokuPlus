@@ -10,7 +10,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = '2.5'
+version = '3.0'
 group = 'city.gennokioku'
 archivesBaseName = 'GennokiokuPlus'
 

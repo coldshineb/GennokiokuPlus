@@ -1,0 +1,8 @@
+{
+  "parent": "gennokiokuplus:custom/shouhutong",
+  "textures": {
+    "back": "gennokiokuplus:blocks/one_way_ticket_back",
+    "front": "gennokiokuplus:blocks/one_way_ticket_front",
+    "particle": "gennokiokuplus:items/one_way_ticket_front"
+  }
+}

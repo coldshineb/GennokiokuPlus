@@ -22,7 +22,7 @@ import city.gennokioku.plus.itemgroup.NatureItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class DirtWayGreyBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:dirt_way_grey")
+	@ObjectHolder("gennokiokuplus:dirt_way_grey")
 	public static final Block block = null;
 
 	public DirtWayGreyBlock(GennokiokuPlusElements instance) {

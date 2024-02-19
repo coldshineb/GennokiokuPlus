@@ -22,7 +22,7 @@ import city.gennokioku.plus.itemgroup.GennokiokuMetroLineItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class Line6Block extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:line_6")
+	@ObjectHolder("gennokiokuplus:line_6")
 	public static final Block block = null;
 
 	public Line6Block(GennokiokuPlusElements instance) {

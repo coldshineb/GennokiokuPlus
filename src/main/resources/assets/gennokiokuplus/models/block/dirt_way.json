@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gennokiokuplus:blocks/dirt_way",
+    "up": "gennokiokuplus:blocks/dirt_way",
+    "north": "gennokiokuplus:blocks/dirt_way",
+    "east": "gennokiokuplus:blocks/dirt_way",
+    "south": "gennokiokuplus:blocks/dirt_way",
+    "west": "gennokiokuplus:blocks/dirt_way",
+    "particle": "gennokiokuplus:blocks/dirt_way"
+  }
+}

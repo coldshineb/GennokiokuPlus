@@ -14,7 +14,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class RailwayTransitItem extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:railway_transit")
+	@ObjectHolder("gennokiokuplus:railway_transit")
 	public static final Item block = null;
 
 	public RailwayTransitItem(GennokiokuPlusElements instance) {

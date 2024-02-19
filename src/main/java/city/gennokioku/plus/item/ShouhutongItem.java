@@ -14,7 +14,7 @@ import city.gennokioku.plus.GennokiokuPlusElements;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class ShouhutongItem extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:shouhutong")
+	@ObjectHolder("gennokiokuplus:shouhutong")
 	public static final Item block = null;
 
 	public ShouhutongItem(GennokiokuPlusElements instance) {

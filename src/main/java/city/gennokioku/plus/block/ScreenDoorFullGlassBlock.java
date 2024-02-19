@@ -40,7 +40,7 @@ import city.gennokioku.plus.itemgroup.MetroStationBlockItemGroup;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class ScreenDoorFullGlassBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:screen_door_full_glass")
+	@ObjectHolder("gennokiokuplus:screen_door_full_glass")
 	public static final Block block = null;
 
 	public ScreenDoorFullGlassBlock(GennokiokuPlusElements instance) {

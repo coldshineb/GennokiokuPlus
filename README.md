@@ -1,2 +1,2 @@
-# StomtCraftPlus
-StomtCraftPlus Mod for StomtCraft server
+# GennokiokuPlus
+GennokiokuPlus Mod for Gennokioku server

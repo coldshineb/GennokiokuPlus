@@ -1,8 +1,0 @@
-{
-  "parent": "stomtcraftplus:custom/lollipop_column",
-  "textures": {
-    "all": "stomtcraftplus:blocks/light_box_dark",
-    "particle": "stomtcraftplus:blocks/light_box_dark",
-    "0": "stomtcraftplus:blocks/light_box_dark"
-  }
-}

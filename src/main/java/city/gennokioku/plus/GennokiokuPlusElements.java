@@ -46,7 +46,7 @@ public class GennokiokuPlusElements {
 
 	public GennokiokuPlusElements() {
 		try {
-			ModFileScanData modFileInfo = ModList.get().getModFileById("stomtcraftplus").getFile().getScanResult();
+			ModFileScanData modFileInfo = ModList.get().getModFileById("gennokiokuplus").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
 			for (ModFileScanData.AnnotationData annotationData : annotations) {
 				if (annotationData.getAnnotationType().getClassName().equals(ModElement.Tag.class.getName())) {

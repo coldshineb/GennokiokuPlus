@@ -38,7 +38,7 @@ import city.gennokioku.plus.GennokiokuPlusElements;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class ScreenDoorCoverDarkBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:screen_door_cover_dark")
+	@ObjectHolder("gennokiokuplus:screen_door_cover_dark")
 	public static final Block block = null;
 
 	public ScreenDoorCoverDarkBlock(GennokiokuPlusElements instance) {

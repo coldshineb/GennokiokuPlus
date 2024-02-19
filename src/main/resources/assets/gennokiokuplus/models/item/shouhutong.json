@@ -1,0 +1,8 @@
+{
+  "parent": "gennokiokuplus:custom/shouhutong",
+  "textures": {
+    "back": "gennokiokuplus:blocks/shouhutong_back",
+    "front": "gennokiokuplus:blocks/shouhutong_front",
+    "particle": "gennokiokuplus:items/shouhutong_front"
+  }
+}

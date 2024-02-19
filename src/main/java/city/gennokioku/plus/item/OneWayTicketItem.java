@@ -14,7 +14,7 @@ import city.gennokioku.plus.GennokiokuPlusElements;
 
 @GennokiokuPlusElements.ModElement.Tag
 public class OneWayTicketItem extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("stomtcraftplus:one_way_ticket")
+	@ObjectHolder("gennokiokuplus:one_way_ticket")
 	public static final Item block = null;
 
 	public OneWayTicketItem(GennokiokuPlusElements instance) {
