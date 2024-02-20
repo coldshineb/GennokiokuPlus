@@ -27,7 +27,7 @@ public class GennokiokuMetroLineItemGroup extends GennokiokuPlusElements.ModElem
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return false;
+				return true;
 			}
 		};
 	}

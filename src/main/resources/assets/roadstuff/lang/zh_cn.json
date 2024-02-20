@@ -1,5 +1,5 @@
 {
-  "block.roadstuff.asphalt_slope": "沥青坡度",
+  "block.roadstuff.asphalt_slope": "沥青道路",
   "block.roadstuff.black_cylindrical_bollard": "黑色圆柱系船柱",
   "block.roadstuff.black_guardrail": "黑色护栏",
   "block.roadstuff.black_luminescent_reflector": "黑色荧光反射器",
@@ -21,7 +21,7 @@
   "block.roadstuff.brown_traffic_barrel": "棕色交通桶",
   "block.roadstuff.brown_traffic_bollard": "棕色交通护柱",
   "block.roadstuff.brown_traffic_cone": "棕色交通锥",
-  "block.roadstuff.concrete_slope": "混凝土坡度",
+  "block.roadstuff.concrete_slope": "混凝土道路",
   "block.roadstuff.cyan_cylindrical_bollard": "青色圆柱系船柱",
   "block.roadstuff.cyan_guardrail": "青色护栏",
   "block.roadstuff.cyan_luminescent_reflector": "青色发光反射器",

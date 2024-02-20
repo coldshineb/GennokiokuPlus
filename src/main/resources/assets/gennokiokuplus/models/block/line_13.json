@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gennokiokuplus:blocks/line13",
+    "up": "gennokiokuplus:blocks/line13",
+    "north": "gennokiokuplus:blocks/line13",
+    "east": "gennokiokuplus:blocks/line13",
+    "south": "gennokiokuplus:blocks/line13",
+    "west": "gennokiokuplus:blocks/line13",
+    "particle": "gennokiokuplus:blocks/line13"
+  }
+}
