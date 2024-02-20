@@ -49,7 +49,7 @@
   "block.gennokiokuplus.line_8": "8号线",
   "block.gennokiokuplus.line_9": "9号线",
   "block.gennokiokuplus.line_lc": "创新港环线",
-  "block.gennokiokuplus.lollipop_column": "棒棒糖立柱",
+  "block.gennokiokuplus.lollipop_column": "灯箱悬挂支柱",
   "block.gennokiokuplus.platform_block": "站台方块",
   "block.gennokiokuplus.platform_side_left_1": "站台边缘（左1）",
   "block.gennokiokuplus.platform_side_left_2": "站台边缘（左2）",
@@ -71,5 +71,6 @@
   "itemGroup.tabmetro_line": "Gennokioku | 轨道交通色块",
   "itemGroup.tabmetro_station_block": "Gennokioku | 轨道交通设施",
   "itemGroup.tabnature": "Gennokioku | 自然",
-  "block.gennokiokuplus.light_box_entrance": "出入口盖板"
+  "block.gennokiokuplus.light_box_entrance": "出入口盖板",
+  "block.gennokiokuplus.lollipop_column_entrance": "出入口立柱"
 }

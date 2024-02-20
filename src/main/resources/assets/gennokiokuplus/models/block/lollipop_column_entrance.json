@@ -1,0 +1,8 @@
+{
+  "parent": "gennokiokuplus:custom/lollipop_column",
+  "textures": {
+    "all": "gennokiokuplus:blocks/light_box_entrance",
+    "particle": "gennokiokuplus:blocks/light_box_entrance",
+    "0": "gennokiokuplus:blocks/light_box_entrance"
+  }
+}
