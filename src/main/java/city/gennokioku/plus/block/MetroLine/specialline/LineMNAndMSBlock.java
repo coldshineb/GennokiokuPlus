@@ -19,11 +19,11 @@ import java.util.Collections;
 import java.util.List;
 
 @GennokiokuPlusElements.ModElement.Tag
-public class LineLMBlock extends GennokiokuPlusElements.ModElement {
-	@ObjectHolder("gennokiokuplus:line_lm")
+public class LineMNAndMSBlock extends GennokiokuPlusElements.ModElement {
+	@ObjectHolder("gennokiokuplus:line_mn_ms")
 	public static final Block block = null;
 
-	public LineLMBlock(GennokiokuPlusElements instance) {
+	public LineMNAndMSBlock(GennokiokuPlusElements instance) {
 		super(instance, 133);
 	}
 
@@ -37,7 +37,7 @@ public class LineLMBlock extends GennokiokuPlusElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("line_lm");
+			setRegistryName("line_mn_ms");
 		}
 
 		@Override
