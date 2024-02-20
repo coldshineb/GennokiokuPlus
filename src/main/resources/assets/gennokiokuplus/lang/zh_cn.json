@@ -70,5 +70,6 @@
   "item.gennokiokuplus.gennokioku": "Gennokioku 图标",
   "itemGroup.tabmetro_line": "Gennokioku | 轨道交通色块",
   "itemGroup.tabmetro_station_block": "Gennokioku | 轨道交通设施",
-  "itemGroup.tabnature": "Gennokioku | 自然"
+  "itemGroup.tabnature": "Gennokioku | 自然",
+  "block.gennokiokuplus.light_box_entrance": "出入口盖板"
 }

@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "gennokiokuplus:blocks/light_box_dark",
-    "up": "gennokiokuplus:blocks/light_box_dark",
+    "down": "gennokiokuplus:blocks/light_box_entrance",
+    "up": "gennokiokuplus:blocks/light_box_entrance",
     "north": "gennokiokuplus:blocks/railway_transit_logo",
     "east": "gennokiokuplus:blocks/railway_transit_logo",
     "south": "gennokiokuplus:blocks/railway_transit_logo",
     "west": "gennokiokuplus:blocks/railway_transit_logo",
-    "particle": "gennokiokuplus:blocks/light_box_dark"
+    "particle": "gennokiokuplus:blocks/light_box_entrance"
   }
 }
