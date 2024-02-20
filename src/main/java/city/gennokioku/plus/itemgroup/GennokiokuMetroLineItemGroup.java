@@ -25,10 +25,22 @@ public class GennokiokuMetroLineItemGroup extends GennokiokuPlusElements.ModElem
 				return new ItemStack(RailwayTransitItem.block);
 			}
 
+	/*	disable search bar
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
 				return true;
 			}
+
+			@OnlyIn(Dist.CLIENT)
+			public int getSearchbarWidth(){
+				return 30;
+			}*/
+			@OnlyIn(Dist.CLIENT)
+			public boolean hasSearchBar() {
+				return false;
+			}
+
+
 		};
 	}
 
