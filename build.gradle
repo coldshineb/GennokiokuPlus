@@ -1,3 +1,7 @@
+import java.time.Instant
+import java.time.format.DateTimeFormatter
+import java.time.temporal.ChronoUnit
+
 buildscript {
     repositories {
         maven { url = 'https://maven.minecraftforge.net' }
@@ -10,7 +14,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = '3.0'
+version = '3.1'
 group = 'city.gennokioku'
 archivesBaseName = 'GennokiokuPlus'
 
@@ -72,6 +76,20 @@ repositories {
 dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.2.34'
     implementation group: 'club.minnced', name: 'java-discord-rpc', version: '2.0.2'
+}
+
+jar {
+    manifest {
+        attributes([
+                "Specification-Title": "GennokiokuPlus",
+                "Specification-Vendor": "Gennokioku",
+                "Specification-Version": "1",
+                "Implementation-Title": project.name,
+                "Implementation-Version": "${project.version}",
+                "Implementation-Vendor": "Gennokioku",
+                "Implementation-Timestamp": DateTimeFormatter.ISO_INSTANT.format(Instant.now().truncatedTo(ChronoUnit.SECONDS))
+        ])
+    }
 }
 
 tasks.withType(JavaCompile).configureEach {
