@@ -2,6 +2,7 @@ package city.gennokioku.plus.register;
 
 import city.gennokioku.plus.creativetab.MetroFacilities;
 import city.gennokioku.plus.creativetab.MetroLines;
+import city.gennokioku.plus.creativetab.Nature;
 import net.minecraft.item.ItemGroup;
 
 /*
@@ -12,4 +13,5 @@ import net.minecraft.item.ItemGroup;
 public class CreativeTabRegistry {
     public static final ItemGroup METROLINES = new MetroLines();
     public static final ItemGroup METROFACILITIES = new MetroFacilities();
+    public static final ItemGroup NATURE = new Nature();
 }

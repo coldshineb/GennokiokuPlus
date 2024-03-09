@@ -12,6 +12,6 @@ public class Nature extends ItemGroup {
 
     @Override
     public ItemStack createIcon() {
-        return new ItemStack(ItemRegistry.railway_transit.get());
+        return new ItemStack(ItemRegistry.dirt_way.get());
     }
 }
