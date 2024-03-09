@@ -15,7 +15,7 @@ import net.minecraft.world.IBlockReader;
 import static net.minecraft.block.Block.makeCuboidShape;
 
 public class LollipopColumn {
-    //灯箱悬挂立柱
+    //灯箱悬挂支柱
     public static class LollipopColumnInside extends Block {
 
         public LollipopColumnInside() {
