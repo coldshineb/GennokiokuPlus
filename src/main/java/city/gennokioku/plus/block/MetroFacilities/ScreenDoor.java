@@ -2,6 +2,7 @@ package city.gennokioku.plus.block.MetroFacilities;
 
 import net.minecraft.block.*;
 import net.minecraft.block.material.Material;
+import net.minecraft.fluid.FluidState;
 import net.minecraft.item.BlockItemUseContext;
 import net.minecraft.state.DirectionProperty;
 import net.minecraft.state.StateContainer;
@@ -13,6 +14,7 @@ import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.shapes.VoxelShape;
 import net.minecraft.util.math.shapes.VoxelShapes;
 import net.minecraft.util.math.vector.Vector3d;
+import net.minecraft.world.IBlockDisplayReader;
 import net.minecraft.world.IBlockReader;
 
 import static net.minecraft.block.Block.makeCuboidShape;
@@ -31,6 +33,10 @@ public class ScreenDoor {
         @Override
         public VoxelShape getShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext context) {
             return getScreenDoorFullGlassVoxelShape(state, world, pos);
+        }
+        @Override
+        public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
+            return 0;
         }
 
         @Override
@@ -64,6 +70,10 @@ public class ScreenDoor {
         @Override
         public VoxelShape getShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext context) {
             return getScreenDoorFullGlassVoxelShape(state, world, pos);
+        }
+        @Override
+        public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
+            return 0;
         }
 
         @Override
@@ -125,6 +135,10 @@ public class ScreenDoor {
                             .withOffset(offset.x, offset.y, offset.z);
             }
         }
+        @Override
+        public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
+            return 0;
+        }
 
         @Override
         protected void fillStateContainer(StateContainer.Builder<Block, BlockState> builder) {
@@ -184,6 +198,14 @@ public class ScreenDoor {
 
                             .withOffset(offset.x, offset.y, offset.z);
             }
+        }
+        @Override
+        public boolean shouldDisplayFluidOverlay(BlockState state, IBlockDisplayReader world, BlockPos pos, FluidState fluidstate) {
+            return true;
+        }
+        @Override
+        public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
+            return 0;
         }
 
         @Override
