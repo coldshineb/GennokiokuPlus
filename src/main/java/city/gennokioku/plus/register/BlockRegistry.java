@@ -1,5 +1,6 @@
 package city.gennokioku.plus.register;
 
+import city.gennokioku.plus.block.MetroFacilities.LightBoxBlock;
 import city.gennokioku.plus.block.Nature;
 import city.gennokioku.plus.util.RegistryKey;
 import city.gennokioku.plus.util.Util;
@@ -49,4 +50,6 @@ public class BlockRegistry {
     public static final RegistryObject<Block> basalt_circle = BLOCKS.register(RegistryKey.BASALT_CIRCLE, Nature.BasaltCircleBlock::new);
     public static final RegistryObject<Block> dirt_way = BLOCKS.register(RegistryKey.DIRT_WAY, Nature.DirtWayBlock::new);
     public static final RegistryObject<Block> dirt_way_grey = BLOCKS.register(RegistryKey.DIRT_WAY_GREY, Nature.DirtWayGreyBlock::new);
+    public static final RegistryObject<Block> light_box_dark = BLOCKS.register(RegistryKey.LIGHT_BOX_DARK, LightBoxBlock.LightBoxDarkBlock::new);
+    public static final RegistryObject<Block> light_box_light = BLOCKS.register(RegistryKey.LIGHT_BOX_LIGHT, LightBoxBlock.LightBoxLightBlock::new);
 }

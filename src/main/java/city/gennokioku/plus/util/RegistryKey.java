@@ -37,4 +37,6 @@ public class RegistryKey {
     public static final String BASALT_CIRCLE = "basalt_circle";
     public static final String DIRT_WAY = "dirt_way";
     public static final String DIRT_WAY_GREY = "dirt_way_grey";
+    public static final String LIGHT_BOX_DARK= "light_box_dark";
+    public static final String LIGHT_BOX_LIGHT = "light_box_light";
 }

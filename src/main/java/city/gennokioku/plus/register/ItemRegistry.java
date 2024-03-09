@@ -20,10 +20,14 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class ItemRegistry {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Util.MODID);
     //统一定义创造模式物品栏
+    public static final ItemGroup METROFACILITIES = CreativeTabRegistry.METROFACILITIES;
     public static final ItemGroup METROLINES = CreativeTabRegistry.METROLINES;
     public static final ItemGroup NATURE = CreativeTabRegistry.NATURE;
+
     //注册 轨道交通设施
     public static final RegistryObject<Item> railway_transit = ITEMS.register("railway_transit", RailwayTransit::new);
+    public static final RegistryObject<Item> light_box_dark = ITEMS.register(RegistryKey.LIGHT_BOX_DARK, () -> new BlockItem(BlockRegistry.light_box_dark.get(), new Item.Properties().group(METROFACILITIES)));
+    public static final RegistryObject<Item> light_box_light = ITEMS.register(RegistryKey.LIGHT_BOX_LIGHT, () -> new BlockItem(BlockRegistry.light_box_light.get(), new Item.Properties().group(METROFACILITIES)));
 
     //注册 轨道交通色块
     public static final RegistryObject<Item> line_1 = ITEMS.register(RegistryKey.LINE_1, () -> new BlockItem(BlockRegistry.line_1.get(), new Item.Properties().group(METROLINES)));
