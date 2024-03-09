@@ -7,7 +7,7 @@ import net.minecraft.item.ItemStack;
 public class MetroLines extends ItemGroup {
 
     public MetroLines() {
-        super("metro_lines_group");
+        super("metro_lines");
     }
 
     @Override
