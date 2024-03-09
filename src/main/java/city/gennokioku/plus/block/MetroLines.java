@@ -11,6 +11,7 @@ import net.minecraft.block.material.Material;
  * */
 
 public class MetroLines {
+    //数字线
     public static class Line1 extends Block {
         public Line1() {
             super(getBlockProperties());
@@ -138,7 +139,7 @@ public class MetroLines {
             super(getBlockProperties());
         }
     }
-
+    //市域线
     public static class LineS1 extends Block {
         public LineS1() {
             super(getBlockProperties());
@@ -162,7 +163,7 @@ public class MetroLines {
             super(getBlockProperties());
         }
     }
-
+    //特殊线
     public static class LineLL extends Block {
         public LineLL() {
             super(getBlockProperties());
@@ -174,7 +175,7 @@ public class MetroLines {
             super(getBlockProperties());
         }
     }
-
+    //云轨线
     public static class LineC5 extends Block {
         public LineC5() {
             super(getBlockProperties());
