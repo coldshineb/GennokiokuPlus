@@ -85,9 +85,9 @@
   "item.gennokiokuplus.railway_transit": "轨道交通图标",
   "item.gennokiokuplus.shouhutong": "守护通",
   "item.gennokiokuplus.gennokioku": "Gennokioku 图标",
-  "itemGroup.tabmetro_line": "Gennokioku | 轨道交通色块",
-  "itemGroup.tabmetro_station_block": "Gennokioku | 轨道交通设施",
-  "itemGroup.tabnature": "Gennokioku | 自然",
+  "itemGroup.metro_lines_group": "Gennokioku | 轨道交通色块",
+  "itemGroup.metro_facilities_group": "Gennokioku | 轨道交通设施",
+  "itemGroup.nature": "Gennokioku | 自然",
   "block.gennokiokuplus.light_box_entrance": "出入口盖板",
   "block.gennokiokuplus.lollipop_column_entrance": "出入口立柱"
 }
