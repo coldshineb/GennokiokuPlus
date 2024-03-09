@@ -17,13 +17,13 @@ import net.minecraft.world.IBlockReader;
 
 import static net.minecraft.block.Block.makeCuboidShape;
 
-public class LightBoxBlock {
+public class LightBox {
 
     public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
+    //灯箱（暗）
+    public static class LightBoxDark extends Block {
 
-    public static class LightBoxDarkBlock extends Block {
-
-        public LightBoxDarkBlock() {
+        public LightBoxDark() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
@@ -51,9 +51,10 @@ public class LightBoxBlock {
             return state.rotate(mirrorIn.toRotation(state.get(FACING)));
         }
     }
-    public static class LightBoxLightBlock extends Block {
+    //灯箱（亮）
+    public static class LightBoxLight extends Block {
 
-        public LightBoxLightBlock() {
+        public LightBoxLight() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
