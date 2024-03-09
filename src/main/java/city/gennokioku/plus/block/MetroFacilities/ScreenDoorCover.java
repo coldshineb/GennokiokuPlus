@@ -21,9 +21,9 @@ public class ScreenDoorCover {
 
     public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
     //屏蔽门盖板（暗）（2格）
-    public static class ScreenDoorCoverDarkBlock extends Block {
+    public static class ScreenDoorCoverDark extends Block {
 
-        public ScreenDoorCoverDarkBlock() {
+        public ScreenDoorCoverDark() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
@@ -52,9 +52,9 @@ public class ScreenDoorCover {
         }
     }
     //屏蔽门盖板（亮）（2格）
-    public static class ScreenDoorCoverLightBlock extends Block {
+    public static class ScreenDoorCoverLight extends Block {
 
-        public ScreenDoorCoverLightBlock() {
+        public ScreenDoorCoverLight() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
@@ -83,9 +83,9 @@ public class ScreenDoorCover {
         }
     }
     //屏蔽门盖板（暗）（3格）
-    public static class ScreenDoorCoverDark3Block extends Block {
+    public static class ScreenDoorCoverDark3 extends Block {
 
-        public ScreenDoorCoverDark3Block() {
+        public ScreenDoorCoverDark3() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
@@ -114,9 +114,9 @@ public class ScreenDoorCover {
         }
     }
     //屏蔽门盖板（亮）（3格）
-    public static class ScreenDoorCoverLight3Block extends Block {
+    public static class ScreenDoorCoverLight3 extends Block {
 
-        public ScreenDoorCoverLight3Block() {
+        public ScreenDoorCoverLight3() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }

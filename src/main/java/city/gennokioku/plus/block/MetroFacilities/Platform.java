@@ -13,26 +13,26 @@ public class Platform {
         }
     }
 
-    public static class PlatformLeft1Block extends Block {
-        public PlatformLeft1Block() {
+    public static class PlatformLeft1 extends Block {
+        public PlatformLeft1() {
             super(getBlockProperties());
         }
     }
 
-    public static class PlatformLeft2Block extends Block {
-        public PlatformLeft2Block() {
+    public static class PlatformLeft2 extends Block {
+        public PlatformLeft2() {
             super(getBlockProperties());
         }
     }
 
-    public static class PlatformRight1Block extends Block {
-        public PlatformRight1Block() {
+    public static class PlatformRight1 extends Block {
+        public PlatformRight1() {
             super(getBlockProperties());
         }
     }
 
-    public static class PlatformRight2Block extends Block {
-        public PlatformRight2Block() {
+    public static class PlatformRight2 extends Block {
+        public PlatformRight2() {
             super(getBlockProperties());
         }
     }

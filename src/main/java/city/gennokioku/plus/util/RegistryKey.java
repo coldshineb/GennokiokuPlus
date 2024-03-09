@@ -4,6 +4,62 @@ package city.gennokioku.plus.util;
  * 统一管理物品注册键值
  * */
 public class RegistryKey {
+    public static final String GENNOKIOKU = "gennokioku";
+    public static final String RAILWAY_TRANSIT = "railway_transit";
+    public static final String PLATFORM_BLOCK = "platform_block";
+    public static final String PLATFORM_LEFT_1 = "platform_side_left_1";
+    public static final String PLATFORM_LEFT_2 = "platform_side_left_2";
+    public static final String PLATFORM_RIGHT_2 = "platform_side_right_2";
+    public static final String PLATFORM_RIGHT_1 = "platform_side_right_1";
+    public static final String LIGHT_BOX_DARK = "light_box_dark";
+    public static final String LIGHT_BOX_LIGHT = "light_box_light";
+    public static final String LIGHT_BOX_ENTRANCE = "light_box_entrance";
+    public static final String SCREEN_DOOR_COVER_DARK = "screen_door_cover_dark";
+    public static final String SCREEN_DOOR_COVER_LIGHT = "screen_door_cover_light";
+    public static final String SCREEN_DOOR_COVER_DARK_3 = "screen_door_cover_dark_3";
+    public static final String SCREEN_DOOR_COVER_LIGHT_3 = "screen_door_cover_light_3";
+    public static final String RAILWAY_TRANSIT_LOGO = "railway_transit_logo";
+    public static final String LOLLIPOP_COLUMN_INSIDE = "lollipop_column";
+    public static final String LOLLIPOP_COLUMN_ENTRANCE = "lollipop_column_entrance";
+    public static final String SHOUHUTONG = "shouhutong";
+    public static final String ONE_WAY_TICKET = "one_way_ticket";
+    public static final String SCREEN_DOOR_FULL_LEFT = "screen_door_full_left";
+    public static final String SCREEN_DOOR_FULL_RIGHT = "screen_door_full_right";
+    public static final String SCREEN_DOOR_FULL_GLASS = "screen_door_full_glass";
+    public static final String SCREEN_DOOR_FULL_GLASS_TERMINUS = "screen_door_full_glass_terminus";
+    public static final String ENTRANCE_NUMBER_A = "entrance_number_a";
+    public static final String ENTRANCE_NUMBER_A_1 = "entrance_number_a_1";
+    public static final String ENTRANCE_NUMBER_A_2 = "entrance_number_a_2";
+    public static final String ENTRANCE_NUMBER_A_3 = "entrance_number_a_3";
+    public static final String ENTRANCE_NUMBER_B = "entrance_number_b";
+    public static final String ENTRANCE_NUMBER_B_1 = "entrance_number_b_1";
+    public static final String ENTRANCE_NUMBER_B_2 = "entrance_number_b_2";
+    public static final String ENTRANCE_NUMBER_B_3 = "entrance_number_b_3";
+    public static final String ENTRANCE_NUMBER_C = "entrance_number_c";
+    public static final String ENTRANCE_NUMBER_C_1 = "entrance_number_c_1";
+    public static final String ENTRANCE_NUMBER_C_2 = "entrance_number_c_2";
+    public static final String ENTRANCE_NUMBER_C_3 = "entrance_number_c_3";
+    public static final String ENTRANCE_NUMBER_D = "entrance_number_d";
+    public static final String ENTRANCE_NUMBER_D_1 = "entrance_number_d_1";
+    public static final String ENTRANCE_NUMBER_D_2 = "entrance_number_d_2";
+    public static final String ENTRANCE_NUMBER_D_3 = "entrance_number_d_3";
+    public static final String ENTRANCE_NUMBER_E = "entrance_number_e";
+    public static final String ENTRANCE_NUMBER_E_1 = "entrance_number_e_1";
+    public static final String ENTRANCE_NUMBER_E_2 = "entrance_number_e_2";
+    public static final String ENTRANCE_NUMBER_E_3 = "entrance_number_e_3";
+    public static final String ENTRANCE_NUMBER_F = "entrance_number_f";
+    public static final String ENTRANCE_NUMBER_F_1 = "entrance_number_f_1";
+    public static final String ENTRANCE_NUMBER_F_2 = "entrance_number_f_2";
+    public static final String ENTRANCE_NUMBER_F_3 = "entrance_number_f_3";
+    public static final String ENTRANCE_NUMBER_G = "entrance_number_g";
+    public static final String ENTRANCE_NUMBER_G_1 = "entrance_number_g_1";
+    public static final String ENTRANCE_NUMBER_G_2 = "entrance_number_g_2";
+    public static final String ENTRANCE_NUMBER_G_3 = "entrance_number_g_3";
+    public static final String ENTRANCE_NUMBER_H = "entrance_number_h";
+    public static final String ENTRANCE_NUMBER_H_1 = "entrance_number_h_1";
+    public static final String ENTRANCE_NUMBER_H_2 = "entrance_number_h_2";
+    public static final String ENTRANCE_NUMBER_H_3 = "entrance_number_h_3";
+
     public static final String LINE_1 = "line_1";
     public static final String LINE_2 = "line_2";
     public static final String LINE_3 = "line_3";
@@ -37,6 +93,5 @@ public class RegistryKey {
     public static final String BASALT_CIRCLE = "basalt_circle";
     public static final String DIRT_WAY = "dirt_way";
     public static final String DIRT_WAY_GREY = "dirt_way_grey";
-    public static final String LIGHT_BOX_DARK= "light_box_dark";
-    public static final String LIGHT_BOX_LIGHT = "light_box_light";
+
 }

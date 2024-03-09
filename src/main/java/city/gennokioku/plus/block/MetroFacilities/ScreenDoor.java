@@ -21,16 +21,16 @@ public class ScreenDoor {
     public static final DirectionProperty FACING = HorizontalBlock.HORIZONTAL_FACING;
 
     //全高站台门
-    public static class ScreenDoorFullGlassBlock extends Block {
+    public static class ScreenDoorFullGlass extends Block {
 
-        public ScreenDoorFullGlassBlock() {
+        public ScreenDoorFullGlass() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
 
         @Override
         public VoxelShape getShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext context) {
-            return getScreenDoorFullGlassBlockVoxelShape(state, world, pos);
+            return getScreenDoorFullGlassVoxelShape(state, world, pos);
         }
 
         @Override
@@ -54,16 +54,16 @@ public class ScreenDoor {
     }
 
     //全高站台门（终点）
-    public static class ScreenDoorFullGlassTerminusBlock extends Block {
+    public static class ScreenDoorFullGlassTerminus extends Block {
 
-        public ScreenDoorFullGlassTerminusBlock() {
+        public ScreenDoorFullGlassTerminus() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
 
         @Override
         public VoxelShape getShape(BlockState state, IBlockReader world, BlockPos pos, ISelectionContext context) {
-            return getScreenDoorFullGlassBlockVoxelShape(state, world, pos);
+            return getScreenDoorFullGlassVoxelShape(state, world, pos);
         }
 
         @Override
@@ -87,9 +87,9 @@ public class ScreenDoor {
     }
 
     //全高屏蔽门（右）
-    public static class ScreenDoorFullRightBlock extends Block {
+    public static class ScreenDoorFullRight extends Block {
 
-        public ScreenDoorFullRightBlock() {
+        public ScreenDoorFullRight() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
@@ -147,9 +147,9 @@ public class ScreenDoor {
     }
 
     //全高屏蔽门（左）
-    public static class ScreenDoorFullLeftBlock extends Block {
+    public static class ScreenDoorFullLeft extends Block {
 
-        public ScreenDoorFullLeftBlock() {
+        public ScreenDoorFullLeft() {
             super(getBlockProperties());
             this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH));
         }
@@ -206,7 +206,7 @@ public class ScreenDoor {
 
     }
 
-    private static VoxelShape getScreenDoorFullGlassBlockVoxelShape(BlockState state, IBlockReader world, BlockPos pos) {
+    private static VoxelShape getScreenDoorFullGlassVoxelShape(BlockState state, IBlockReader world, BlockPos pos) {
         Vector3d offset = state.getOffset(world, pos);
         switch ((Direction) state.get(FACING)) {
             case SOUTH:
