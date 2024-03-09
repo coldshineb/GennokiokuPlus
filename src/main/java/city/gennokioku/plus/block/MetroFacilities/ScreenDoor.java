@@ -199,10 +199,7 @@ public class ScreenDoor {
                             .withOffset(offset.x, offset.y, offset.z);
             }
         }
-        @Override
-        public boolean shouldDisplayFluidOverlay(BlockState state, IBlockDisplayReader world, BlockPos pos, FluidState fluidstate) {
-            return true;
-        }
+
         @Override
         public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
             return 0;
