@@ -58,10 +58,10 @@
   "block.gennokiokuplus.line_20": "Line 20",
   "block.gennokiokuplus.line_21": "Line 21",
   "block.gennokiokuplus.line_c5": "Line C5",
-  "block.gennokiokuplus.line_lc": "Line LC",
+  "block.gennokiokuplus.line_ls": "Line 24 (Line LS)",
+  "block.gennokiokuplus.line_lc": "Line 25 (Line LC)",
   "block.gennokiokuplus.line_ll": "Line LL",
   "block.gennokiokuplus.line_mn_ms": "Line MN/MS",
-  "block.gennokiokuplus.line_ls": "Line LS",
   "block.gennokiokuplus.line_s1": "Line S1",
   "block.gennokiokuplus.line_s2": "Line S2",
   "block.gennokiokuplus.line_s3": "Line S3",
@@ -87,7 +87,7 @@
   "item.gennokiokuplus.railway_transit": "Railway Transit Logo",
   "item.gennokiokuplus.shouhutong": "Shouhutong",
   "item.gennokiokuplus.gennokioku": "Gennokioku Logo",
-  "itemGroup.tabmetro_line": "Gennokioku | Metro Line",
-  "itemGroup.tabmetro_station_block": "Gennokioku | Metro Station Block",
-  "itemGroup.tabnature": "Gennokioku | Nature"
+  "itemGroup.metro_lines": "Gennokioku | Metro Lines",
+  "itemGroup.metro_facilities": "Gennokioku | Metro Facilities",
+  "itemGroup.nature": "Gennokioku | Nature"
 }
