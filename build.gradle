@@ -95,6 +95,16 @@ jar {
     }
 }
 
+shadowJar{
+    configurations = [project.configurations.shadow]
+    dependencies {
+        it.exclude it.dependency('org.apache.httpcomponents:httpclient:.*')
+        it.exclude it.dependency('org.apache.httpcomponents:httpcore:.*')
+        it.exclude it.dependency('commons-logging:commons-logging:.*')
+        it.exclude it.dependency('commons-codec:commons-codec:.*')
+    }
+}
+
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8' // Use the UTF-8 charset for Java compilation
 }
